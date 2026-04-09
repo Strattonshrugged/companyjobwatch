@@ -1,0 +1,26 @@
+keywords:
+  - QA
+  - Quality
+  - Test
+
+sites:
+  - name: "Spotify"
+    url: "https://www.lifeatspotify.com/jobs?l=united-states-of-america-home-mix"
+  - name: "Peacock (NBCUniversal)"
+    url: "https://www.nbcunicareers.com/business/peacock"
+  - name: "Paramount+"
+    url: "https://careers.paramount.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_customfield1=Technology&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3="
+  - name: "Fubo TV"
+    url: "https://careers.fubo.tv/fubotv-job-openings/"
+  - name: "Harman International"
+    url: "https://jobsearch.harman.com/en_US/careers/SearchJobs"
+  - name: "The Trade Desk"
+    url: "https://careers.thetradedesk.com/jobs?region=americas"
+  - name: "Sportradar"
+    url: "https://sportradar.com/careers/?lang=en-us"
+  - name: "Peloton"
+    url: "https://careers.onepeloton.com/en/all-jobs/"
+  - name: "Cerence"
+    url: "https://cerence.wd5.myworkdayjobs.com/Cerence"
+  - name: "Magnite"
+    url: "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers"
