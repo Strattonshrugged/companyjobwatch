@@ -2,7 +2,7 @@ name: Job Watch
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # daily at 08:00 UTC — adjust as needed
+    - cron: '*/30 * * * *'  # every 30 minutes
   workflow_dispatch:      # allows manual trigger from the Actions tab
 
 jobs:
