@@ -8,8 +8,6 @@ sites:
     url: "https://www.lifeatspotify.com/jobs?l=united-states-of-america-home-mix"
   - name: "Peacock (NBCUniversal)"
     url: "https://www.nbcunicareers.com/business/peacock"
-  - name: "Paramount+"
-    url: "https://careers.paramount.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_customfield1=Technology&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3="
   - name: "Fubo TV"
     url: "https://careers.fubo.tv/fubotv-job-openings/"
   - name: "Harman International"
@@ -24,3 +22,160 @@ sites:
     url: "https://cerence.wd5.myworkdayjobs.com/Cerence"
   - name: "Magnite"
     url: "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers"
+
+  - name: "Max (Warner Bros. Discovery)"
+    url: "https://careers.wbd.com/global/en/search-results"
+
+  - name: "Crunchyroll"
+    url: "https://www.crunchyroll.com/about/jobs"
+
+  - name: "Philo"
+    url: "https://jobs.philo.com/jobs"
+
+  - name: "Plex"
+    url: "https://www.plex.tv/careers/open-jobs/"
+
+  - name: "Pandora (SiriusXM)"
+    url: "https://careers.siriusxm.com/careers/jobs"
+
+  - name: "Tubi (Fox Corporation)"
+    url: "https://www.foxcorporation.com/careers/"
+
+  - name: "Roku"
+    url: "https://www.weareroku.com/jobs/search"
+
+  - name: "Twitch (Amazon)"
+    url: "https://www.twitch.tv/jobs/en/"
+
+  - name: "Vimeo"
+    url: "https://vimeo.com/careers/openings"
+
+  - name: "Pluto TV (Paramount)"
+    url: "https://careers.paramount.com/go/Pluto/8710500/"
+
+  - name: "Showtime (Paramount)"
+    url: "https://careers.paramount.com/go/Showtime/8710300/"
+
+  - name: "AMC Networks"
+    url: "https://www.amcnetworks.com/careers/"
+
+  - name: "Xumo (Comcast/Charter)"
+    url: "https://careers.comcast.com/jobs/search?keywords=xumo"
+
+  - name: "Walt Disney Company"
+    url: "https://www.disneycareers.com/en/search-jobs"
+
+  - name: "Sling TV (EchoStar/DISH)"
+    url: "https://careers.echostar.com/jobs"
+
+  - name: "Lionsgate"
+    url: "https://jobs.lionsgate.com/"
+
+  - name: "Paramount Streaming"
+    url: "https://careers.paramount.com/go/Paramount+/8717600/"
+
+  - name: "FreeWheel (Comcast)"
+    url: "https://careers.comcast.com/jobs/search?keywords=freewheel"
+
+  - name: "iHeartMedia"
+    url: "https://iheart.com/company/careers/"
+
+  - name: "Audible (Amazon)"
+    url: "https://www.audiblecareers.com/jobs"
+
+  - name: "Innovid"
+    url: "https://www.innovid.com/company/careers/"
+
+  - name: "Multi Media LLC (Chaturbate)"
+    url: "https://apply.workable.com/multimediallc/"
+
+  - name: "Versant Media (USA Network, CNBC, SYFY, Fandango)"
+    url: "https://careers.versantmedia.com/find-a-job"
+
+  - name: "Netflix"
+    url: "https://jobs.netflix.com/careers/engineering"
+
+  - name: "Amazon Prime Video"
+    url: "https://www.amazon.jobs/content/en/teams/amazon-entertainment/prime-video"
+
+  - name: "Brightcove"
+    url: "https://www.brightcove.com/en/company/careers/"
+
+  - name: "Mux"
+    url: "https://www.mux.com/jobs"
+
+  - name: "Dolby Laboratories"
+    url: "https://careers.dolby.com/viewalljobs/"
+
+  - name: "Vevo"
+    url: "https://www.vevo.com/jobs"
+
+  - name: "Mubi"
+    url: "https://mubi.com/en/jobs"
+
+  - name: "Apple (TV+)"
+    url: "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF"
+
+  - name: "Conviva"
+    url: "https://www.conviva.com/company/careers/"
+
+  - name: "Wurl"
+    url: "https://www.wurl.com/careers"
+
+  - name: "theScore / Penn Entertainment"
+    url: "https://www.thescore.com/careers"
+
+  - name: "Frndly TV"
+    url: "https://frndlytv.com/careers"
+
+  - name: "DirecTV"
+    url: "https://www.directv.com/careers/"
+
+  - name: "BritBox (BBC / ITV)"
+    url: "https://corporate.britbox.com/careers"
+
+  - name: "Discord"
+    url: "https://discord.com/careers"
+
+  - name: "Accelint (formerly Hypergiant)"
+    url: "https://www.accelint.com/careers"
+
+  - name: "Stripe"
+    url: "https://stripe.com/jobs"
+
+  - name: "Shopify"
+    url: "https://www.shopify.com/careers/disciplines/engineering-data"
+
+  - name: "Atlassian"
+    url: "https://www.atlassian.com/company/careers/all-jobs"
+
+  - name: "Robinhood"
+    url: "https://careers.robinhood.com/"
+
+  - name: "Duolingo"
+    url: "https://careers.duolingo.com/"
+
+  - name: "Instacart"
+    url: "https://instacart.careers/careers/"
+
+  - name: "DraftKings"
+    url: "https://careers.draftkings.com/"
+
+  - name: "Chime"
+    url: "https://careers.chime.com/jobs"
+
+  - name: "Datadog"
+    url: "https://careers.datadoghq.com/all-jobs/"
+
+  - name: "Zendesk"
+    url: "https://jobs.zendesk.com/us/en"
+
+  - name: "Trupanion"
+    url: "https://careers.trupanion.com/jobs"
+
+  - name: "Remitly"
+    url: "https://careers.remitly.com/jobs"
+
+
+
+
