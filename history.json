@@ -24,7 +24,10 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test",
+    "Senior Quality Assurance Engineer"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
   "https://careers.paramount.com/go/Showtime/8710300/": [
@@ -32,6 +35,7 @@
   ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
+    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
@@ -55,14 +59,11 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Apple Services Engineering (ASE) powers the platforms behind the App Store, Apple Music, Apple TV+, Apple Arcade, Apple Books, and more. ASE Media Platform Quality is the organization responsible for testing the systems that support commerce across these services \u2014 including activities like purchasing, subscribing, redeeming offers, and more. We are looking for a highly technical Software Development Engineer in Test to drive the design and development of internal tools and infrastructure that empower our engineering teams.",
     "Apple Services powers some of the world's most beloved digital experiences, from the App Store and Apple Music to Apple TV+ and beyond. Our Media Domain Platforms team builds the platforms, systems, components, and tools that engineering teams across the Services organization depend on every day. We solve real-world, at-scale challenges, supporting diverse, cross-functional web products with heterogeneous tech stacks, while ensuring a consistently high-quality, cohesive user experience.",
     "How do we get the right diagnostic data to improve the quality of Apple products and software? This is the most important question that the Stability Engineering OS Team strives to answer each day. We are looking for an exceptional senior engineer to architect and build our OS diagnostic collection services.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Senior Software Engineer in Test, Evaluation",
     "Senior Software Engineer in Test, Evaluation 200654947-3337",
-    "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering",
-    "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering 200656090-3337",
     "Software Image Quality Engineer - Creativity Apps",
     "Software Image Quality Engineer - Creativity Apps 200645394-0836",
     "Software Quality Automation Engineer - Apple Services Engineering",
