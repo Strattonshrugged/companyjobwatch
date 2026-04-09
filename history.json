@@ -25,8 +25,7 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
-    "SW Engineer Intern, Audio SW and Test",
-    "Software Engineer Intern, AI-Powered Picture Quality Tools"
+    "SW Engineer Intern, Audio SW and Test"
   ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
@@ -35,6 +34,7 @@
   ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
+    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
@@ -60,14 +60,11 @@
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "Apple Services Engineering (ASE) powers the platforms behind the App Store, Apple Music, Apple TV+, Apple Arcade, Apple Books, and more. ASE Media Platform Quality is the organization responsible for testing the systems that support commerce across these services \u2014 including activities like purchasing, subscribing, redeeming offers, and more. We are looking for a highly technical Software Development Engineer in Test to drive the design and development of internal tools and infrastructure that empower our engineering teams.",
     "Apple Services powers some of the world's most beloved digital experiences, from the App Store and Apple Music to Apple TV+ and beyond. Our Media Domain Platforms team builds the platforms, systems, components, and tools that engineering teams across the Services organization depend on every day. We solve real-world, at-scale challenges, supporting diverse, cross-functional web products with heterogeneous tech stacks, while ensuring a consistently high-quality, cohesive user experience.",
-    "Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! The watchOS QA team is seeking a QA Engineer to help us ensure that our watch experience is rock-solid and customer-focused. We're looking for critical thinkers who would like to play a key role qualifying communications and safety features and the frameworks that support them. We practice nimble, fast-paced development that relies heavily on a tight relationship ...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Senior Software Engineer in Test, Evaluation",
     "Senior Software Engineer in Test, Evaluation 200654947-3337",
     "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering",
     "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering 200656090-3337",
-    "Software QA Engineer, Watch Software",
-    "Software QA Engineer, Watch Software  200653144-3543",
     "Software Quality Automation Engineer - Apple Services Engineering",
     "Software Quality Automation Engineer - Apple Services Engineering 200656371-3337",
     "We are looking for a quality-focused owner, excited to work from device to UI, partnering with critical Apple Partners delivering features, apps, and the operating systems themselves. You\u2019ll get to work at all levels, driving quality personally, writing code, building test plans, while also working across the whole organization, building a culture of quality, setting high standards, and setting best practices for an org of engineers.",
