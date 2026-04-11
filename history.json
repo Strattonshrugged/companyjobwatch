@@ -11,11 +11,13 @@
   ],
   "https://careers.fubo.tv/fubotv-job-openings/": [
     "Employee Testimonials",
+    "We are a diverse group of individuals, creatives, technologists, analysts and more. Some of us love sports, some binge the news, others prefer rom-coms. But we are united by a common goal \u2014 to create a streaming platform that transcends the industry\u2019s current virtual MVPD model. (NYSE: FUBO)",
     "We offer biological, adoptive and foster parents paid time off to spend quality time with family.",
     "We're ranked as one of The Americas' Fastest Growing Companies."
   ],
   "https://jobsearch.harman.com/en_US/careers/SearchJobs": [],
   "https://careers.thetradedesk.com/jobs?region=americas": [
+    "Senior Commercial Finance Analyst",
     "Senior Software Engineer - Marketplace Quality Engineering",
     "Staff\u00a0Applied Scientist , Inventory & Marketplace Quality",
     "The latest jobs for\u00a0you",
@@ -26,22 +28,32 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test",
+    "Senior Quality Assurance Engineer",
+    "Sr. Financial Analyst"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
-  "https://careers.paramount.com/go/Pluto/8710500/": [],
+  "https://careers.paramount.com/go/Pluto/8710500/": [
+    "Financial Analyst, FP&A - Pluto TV"
+  ],
   "https://careers.paramount.com/go/Showtime/8710300/": [
     "Lead, Live Video Quality Engineer"
   ],
-  "https://www.amcnetworks.com/careers/": [],
+  "https://www.amcnetworks.com/careers/": [
+    "Analyst Coverage"
+  ],
   "https://www.disneycareers.com/en/search-jobs": [
-    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
     "Technical Show Quality (Product)"
   ],
-  "https://jobs.lionsgate.com/": [],
+  "https://jobs.lionsgate.com/": [
+    "Senior Analyst, Digital Insights",
+    "The Senior Analyst, Digital Insights will support the monitoring and reporting of social conversation and performance, helping translate digital data into clear, actionable insights for various departments across Lionsgate\u2019s Motion Picture Group. This role requires a highly detail-oriented, analytical thinker with strong technical skills and solid proficiency in Excel to manage data, maintain accurate reporting, and lead budget tracking. The ideal candidate is highly organized with a passion and curiosity for how online conversation can impact everyday business decisions, and the ability to prioritize and balance multiple projects in a fast-paced, collaborative environment."
+  ],
   "https://careers.paramount.com/go/Paramount+/8717600/": [
     "Lead, Live Video Quality Engineer"
   ],
@@ -70,9 +82,16 @@
     "We have to be able to build things quickly to support the fastest growing startups and"
   ],
   "https://www.shopify.com/careers/disciplines/engineering-data": [
-    "Lead teams transforming analytics into actions. Own your area and uphold the highest standards of quality to scale performance and align data capabilities with business goals."
+    "Lead teams transforming analytics into actions. Own your area and uphold the highest standards of quality to scale performance and align data capabilities with business goals.",
+    "Staff Business Analyst - Revenue Data"
   ],
   "https://www.atlassian.com/company/careers/all-jobs": [
+    "Jira",
+    "Jira Align",
+    "Jira Product Discovery",
+    "Jira Service Management",
+    "Jira Service Management \u2022\u00a0Customer Service Management \u2022 Assets \u2022 Rovo",
+    "Jira \u2022 Confluence \u2022 Loom \u2022 Rovo",
     "Ship high-quality software fast"
   ],
   "https://careers.robinhood.com/": [
@@ -81,9 +100,44 @@
   ],
   "https://careers.duolingo.com/": [],
   "https://careers.datadoghq.com/all-jobs/": [
+    "Analyst Reports",
+    "Bits AI Security Analyst",
     "Continuous Testing",
     "Mobile App Testing",
     "Quality Monitoring",
     "Test Optimization"
-  ]
+  ],
+  "https://www.keywordsstudios.com/en/careers/browse-careers/": [
+    "(Short-term role) Korean Localization game testers (\u77ed\u671f\u5951\u7d04)\u97d3\u56fd\u8a9e\u30b2\u30fc\u30e0\u30ed\u30fc\u30ab\u30e9\u30a4\u30ba\u30c6\u30b9\u30bf\u30fc",
+    "Mighty Build and Test",
+    "QA Testing Services",
+    "Read our latest Innovation article"
+  ],
+  "https://www.ptw.com/careers": [],
+  "https://www.qualitylogic.com/about/careers/": [
+    "Jobs at QualityLogic | QualityLogic Careers",
+    "Life can take some unexpected turns. QualityLogic provides life insurance, short- and long-term disability, and an employee assistance program at no cost to you to help you and your family.",
+    "Maybe you have Silicon Valley skills. Or maybe you\u2019re looking to break into the tech industry and grow your skills. Either way, you're a perfect candidate to join our team of Quality Assurance and Digital Accessibility experts.",
+    "QualityLogic",
+    "QualityLogic complies with Federal Transparency in Coverage regulations by providing this link to machine readable files related to the health plans offered to our employees. The machine-readable files are formatted to allow researchers, regulators, and application developers to more easily access and analyze data including negotiated service rates, and out-of-network allowed amounts between health plans and healthcare providers.",
+    "Some of the country\u2019s foremost software testing experts bring their best abilities to our world-class testing labs in Boise, ID, Oklahoma City, OK, and Simi Valley, CA \u2013 picturesque cities where life is less stressful. Team members truly enjoy a job that rewards their unique skills while being surrounded by down-to-earth, friendly people. QualityLogic also offers the opportunity to be involved in groundbreaking technologies for some of the most innovative companies in the world.",
+    "We want to help you reach your retirement goals. That\u2019s why QualityLogic provides a 401(k) savings plan and matches your 401(k) contributions.",
+    "Your success drives our success. So, when QualityLogic does well, employees are rewarded with quarterly bonuses.",
+    "You\u2019ll be joining a team of smart, capable, helpful people that want you to succeed, our clients to be delighted, and our business to grow. QualityLogic invests in your training and improving your skills to help you become one of the best."
+  ],
+  "https://noriginmedia.com/careers/": [
+    "OTT Testing-aaS",
+    "QA Engineer",
+    "Quality Assurance/ Testing Intern",
+    "Testing-aaS",
+    "We are expanding our team of frontend Java Script engineers in Oslo with a Junior Frontend Developer.  You will work with the latest technologies such as React across multiple interesting projects.",
+    "We are expanding our team of frontend Java Script engineers in our teams in Oslo, Spain and Romania who work with the latest technologies such as React across multiple interesting projects.",
+    "We are looking for a person who can create and execute manual testing of applications. The candidate should be able to see things from the end user\u2019s perspective and holistically think of the scenarios which can go wrong, and also develop tests to verify all those hard to find bugs and potential problems before they occur.",
+    "We are looking for an experienced QA Engineer with hands-on experience from testing client applications on a wide range of internet-connected devices and environments (mobile phones, tablets, Web, connected TVs, game consoles etc.) as well as an understanding of testing of server-side software and APIs."
+  ],
+  "https://fxdigital.uk/careers/": [
+    "FX Digital is a London-based Connected TV-first and OTT app technology company, helping brands reach millions of new customers by building and launching premium quality CTV applications across Smart TVs, Set-Top-Boxes, gaming consoles, web and mobile devices.",
+    "Mid-weight Quality Engineer Analyst"
+  ],
+  "https://circleci.com/careers/": []
 }
