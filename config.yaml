@@ -217,4 +217,29 @@ sites:
   - name: "CircleCI"
     url: "https://circleci.com/careers/"
 
+  - name: "Booz Allen Hamilton"
+    url: "https://careers.boozallen.com/careers/SearchJobs"
 
+  - name: "Leidos"
+    url: "https://careers.leidos.com/"
+
+  - name: "SAIC"
+    url: "https://jobs.saic.com/"
+
+  - name: "GDIT (General Dynamics IT)"
+    url: "https://www.gdit.com/careers/search/"
+
+  - name: "Peraton"
+    url: "https://careers.peraton.com/jobs"
+
+  - name: "ManTech"
+    url: "https://careers.mantech.com/"
+
+  - name: "CACI International"
+    url: "https://careers.caci.com/"
+
+  - name: "Accenture Federal Services"
+    url: "https://www.accenture.com/us-en/careers/local/federal-careers"
+
+  - name: "Serco North America"
+    url: "https://careers.serco-na.com/us/en/search-results"
