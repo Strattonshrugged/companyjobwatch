@@ -2,6 +2,11 @@ keywords:
   - QA
   - Quality
   - Test
+  - Postman
+  - JIRA
+  - Regression
+  - SDET
+  - Analyst
 
 sites:
   - name: "Spotify"
@@ -176,6 +181,40 @@ sites:
   - name: "Remitly"
     url: "https://careers.remitly.com/jobs"
 
+  - name: "Keywords Studios"
+    url: "https://www.keywordsstudios.com/en/careers/browse-careers/"
 
+  - name: "GlobalStep"
+    url: "https://globalstep.com/careers/"
+
+  - name: "Testronic"
+    url: "https://careers.testroniclabs.com/"
+
+  - name: "PTW / SIDE"
+    url: "https://www.ptw.com/careers"
+
+  - name: "QualityLogic"
+    url: "https://www.qualitylogic.com/about/careers/"
+
+  - name: "Norigin Media"
+    url: "https://noriginmedia.com/careers/"
+
+  - name: "FX Digital"
+    url: "https://fxdigital.uk/careers/"
+
+  - name: "QAwerk"
+    url: "https://qawerk.com/careers/"
+
+  - name: "Witbe"
+    url: "https://www.witbe.net/company/careers/"
+
+  - name: "Suitest"
+    url: "https://suite.st/about/jobs/"
+
+  - name: "Discord"
+    url: "https://discord.com/careers"
+
+  - name: "CircleCI"
+    url: "https://circleci.com/careers/"
 
 
