@@ -24,7 +24,9 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
@@ -67,7 +69,6 @@
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "At Apple great ideas have a way of becoming great products, services, and customer experiences. We believe design matters and we are passionate about providing high quality services to our customers around the world. Design has always been at the heart of Apple, the work that we do, and is the creative core of the Product & Design team. The Wallet, Payments and Commerce Design Team is seeking a skilled and enthusiastic Design Producer to lead, manage, and deliver service design initiatives. The Design Producer will play a big part in upholding these values and driving innovation and creativ...",
-    "Imagine what you could do here! The people here at Apple don\u2019t just build products \u2014 we craft the kind of wonder that\u2019s revolutionized entire industries. It\u2019s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it. The Applications team is looking for a Software QA Automation Engineer to lead automation efforts for the next generation of applications and services. This position requires an ambitious individ...",
     "Imagine what you could do here! The people here at Apple don\u2019t just build products \u2014 we craft the kind of wonder that\u2019s revolutionized entire industries. It\u2019s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it. The Video Applications team is looking for a Software Developer in Test that has experience in macOS apps, still image file formats, video codecs, audio, and metadata. Ideally, we are looking for...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Software Development Engineer in Test (SDET), Video Apps",
@@ -75,8 +76,6 @@
     "Software Development Engineer in Test (SDET), Video Apps 200658200-0836",
     "Software Development Engineer in Test (SDET), Video Apps 200658200-3337",
     "Software Development Engineer in Test (SDET), Video Apps 200658200-3543",
-    "Software QA Automation Engineer",
-    "Software QA Automation Engineer  200646752-0836",
     "The Developer Experience Human Interface Design team conceptualizes, designs, and ships the user experience for Apple developer tools. The team designs developer tools, including Xcode, used by millions of developers around the world to build, test, and ship software for Apple's platforms!",
     "We work on app processing and internal tools to enable producers, editors, designers and business analysts to craft the best possible App Store experience for our customers worldwide."
   ],
