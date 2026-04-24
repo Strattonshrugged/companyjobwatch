@@ -24,9 +24,7 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [
-    "SW Engineer Intern, Audio SW and Test"
-  ],
+  "https://www.weareroku.com/jobs/search": [],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
@@ -43,8 +41,8 @@
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
+    "Senior Content Strategy Analyst",
     "Sr. Analyst, Ad Measurement & Insights",
-    "Sr. Analyst, Product Operations LATAM",
     "Technical Show Quality (Product)"
   ],
   "https://jobs.lionsgate.com/": [
@@ -81,15 +79,7 @@
   "https://www.shopify.com/careers/disciplines/engineering-data": [
     "Staff Business Analyst - Revenue Data"
   ],
-  "https://www.atlassian.com/company/careers/all-jobs": [
-    "Jira",
-    "Jira Align",
-    "Jira Product Discovery",
-    "Jira Service Management",
-    "Jira Service Management \u2022\u00a0Customer Service Management \u2022 Assets \u2022 Rovo",
-    "Jira \u2022 Confluence \u2022 Loom \u2022 Rovo",
-    "Ship high-quality software fast"
-  ],
+  "https://www.atlassian.com/company/careers/all-jobs": [],
   "https://careers.robinhood.com/": [
     "Stay up to date on the latest happenings at Robinhood and get notified when we post new job opportunities that match your interests.",
     "We operate with extreme urgency. We push for progress without compromising quality-and when something is"
@@ -145,5 +135,8 @@
     "Research, test, prototype, and scale solutions with the latest technologies to transform the federal enterprise and deliver valuable outcomes."
   ],
   "https://careers.serco-na.com/us/en/search-results": [],
-  "https://careers.chime.com/jobs": []
+  "https://careers.chime.com/jobs": [
+    "Data Analyst, Financial Crimes & Identity",
+    "Senior Analyst, AML Governance & Advisory"
+  ]
 }
