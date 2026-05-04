@@ -27,6 +27,8 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test",
+    "Senior Software Engineer, Test",
     "Software Engineer in Test (AI focus)"
   ],
   "https://www.twitch.tv/jobs/en/": [],
@@ -73,6 +75,7 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
+    "At Apple Maps, we're not just building world-class location experiences \u2014 we're shaping the future of how people explore and navigate the world. The Maps Client Quality Engineering Intelligence (QEI) team applies AI across the full breadth of QE workflows \u2014 from test scheduling and triage to coverage analysis and release readiness \u2014 to help QE leads and SDETs ship with confidence. We raise quality and velocity at the same time. Our culture is one of deep collaboration, shared ownership, and a belief that the best solutions come from staying close to the people who use them. If you're excite...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability."
   ],
   "https://discord.com/careers": [
@@ -85,15 +88,7 @@
   "https://www.shopify.com/careers/disciplines/engineering-data": [
     "Staff Business Analyst - Revenue Data"
   ],
-  "https://www.atlassian.com/company/careers/all-jobs": [
-    "Jira",
-    "Jira Align",
-    "Jira Product Discovery",
-    "Jira Service Management",
-    "Jira Service Management \u2022\u00a0Customer Service Management \u2022 Assets \u2022 Rovo",
-    "Jira \u2022 Confluence \u2022 Loom \u2022 Rovo",
-    "Ship high-quality software fast"
-  ],
+  "https://www.atlassian.com/company/careers/all-jobs": [],
   "https://careers.robinhood.com/": [
     "Stay up to date on the latest happenings at Robinhood and get notified when we post new job opportunities that match your interests.",
     "We operate with extreme urgency. We push for progress without compromising quality-and when something is"
