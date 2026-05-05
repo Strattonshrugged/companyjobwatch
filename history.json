@@ -26,9 +26,7 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [
-    "SW Engineer Intern, Audio SW and Test"
-  ],
+  "https://www.weareroku.com/jobs/search": [],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
@@ -36,6 +34,7 @@
   "https://careers.paramount.com/go/Showtime/8710300/": [
     "Analyst",
     "Analyst, Marketing Analytics",
+    "Global Security Operations Center (GSOC) Analyst",
     "Lead Software Engineer (Java) in Test",
     "Software Engineer (Java) in Test",
     "Sr Live Video Quality Software Engineer"
@@ -45,10 +44,10 @@
   ],
   "https://www.disneycareers.com/en/search-jobs": [
     "Get the latest job opportunities as they become available.",
+    "Part-Time Statistics Analyst I (Expression of Interest)",
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
-    "Senior Finance Analyst",
     "Technical Show Quality (Product)"
   ],
   "https://jobs.lionsgate.com/": [
@@ -139,13 +138,7 @@
     "Mid-weight Quality Engineer Analyst"
   ],
   "https://circleci.com/careers/": [],
-  "https://careers.boozallen.com/careers/SearchJobs": [
-    "Acquisition Analyst",
-    "All-Source Intelligence Analyst",
-    "Capability Requirements Analyst",
-    "SIGINT Analyst",
-    "Signals and Digital Network Exploitation Analyst"
-  ],
+  "https://careers.boozallen.com/careers/SearchJobs": [],
   "https://www.gdit.com/careers/search/": [],
   "https://careers.mantech.com/": [
     "Logistics Analyst",
