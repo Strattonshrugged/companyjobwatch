@@ -26,7 +26,9 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
@@ -45,11 +47,11 @@
     "Analyst Coverage"
   ],
   "https://www.disneycareers.com/en/search-jobs": [
+    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
-    "Senior Financial Analyst",
     "Software Developer in Test II",
     "Technical Show Quality (Product)"
   ],
