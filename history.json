@@ -25,19 +25,19 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "Automation QA Engineer"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
   ],
-  "https://careers.paramount.com/go/Showtime/8710300/": [
-    "Analyst",
-    "Software Engineer (Java) in Test"
-  ],
+  "https://careers.paramount.com/go/Showtime/8710300/": [],
   "https://www.amcnetworks.com/careers/": [
     "Analyst Coverage"
   ],
   "https://www.disneycareers.com/en/search-jobs": [
+    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
