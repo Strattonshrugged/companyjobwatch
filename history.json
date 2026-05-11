@@ -25,9 +25,7 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
-    "SW Engineer Intern, Audio SW and Test",
-    "Software Engineer in Test (AI focus)",
-    "Sr. Analyst, Ad Forecasting & Inventory Yield"
+    "SW Engineer Intern, Audio SW and Test"
   ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
@@ -45,7 +43,9 @@
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
-    "Senior Business Systems Analyst/Business Systems Analyst (Hotel systems/Opera) (Contract end at Sep 2027)",
+    "Quality Engineer",
+    "Senior Manager, Software Development Engineer in Test",
+    "Sr Technical Support Analyst",
     "Technical Show Quality (Product)"
   ],
   "https://jobs.lionsgate.com/": [
@@ -76,6 +76,8 @@
     "Software Engineer in Test, Cocoa",
     "Software Engineer in Test, Cocoa 200662197-0836",
     "The Health SW team is a diverse, talented, and passionate group of engineers working at the center of Apple\u2019s strategy to improve how people manage their health. We believe the latest AI development tools can enable more creative engineering work while building higher quality products faster.",
+    "The Test Platform team at Apple is on a mission to provide innovative infrastructure and tools that execute billions of tests for internal engineering teams across Apple. We\u2019re excited to expand the remit of our team and add new intelligent capabilities in the areas of dynamic test scheduling and orchestration.",
+    "We are looking for an exceptional software engineer with deep experience designing and building developer tools, build/test infrastructure, or production platform services and applying intelligence in areas like test selection, test execution and resource scheduling. You'll bring ...",
     "We are seeking a Senior Software Engineer to help build intelligent internal platforms, automation frameworks, and developer tools that improve quality, and engineering productivity across Apple Ads.",
     "\u201cI believe, if you zoom out into the future, and you look back, and you ask the question, \u2018What was Apple\u2019s greatest contribution to mankind?\u2019 it will be about health.\u201d \u2013 Tim Cook, 2019"
   ],
@@ -143,8 +145,7 @@
   ],
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [
-    "Data Analyst, Senior",
-    "Software Test Engineer"
+    "Data Analyst, Senior"
   ],
   "https://www.gdit.com/careers/search/": [],
   "https://careers.mantech.com/": [],
@@ -158,7 +159,7 @@
     "Analyst, Business Control Testing"
   ],
   "https://careers.onepeloton.com/en/all-jobs/": [
-    "Mechanical Test Engineer"
+    "Sr. Trade Compliance Analyst"
   ],
   "https://www.crunchyroll.com/about/jobs": [],
   "https://careers.draftkings.com/": [
