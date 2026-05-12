@@ -24,7 +24,9 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
@@ -38,7 +40,6 @@
   ],
   "https://www.disneycareers.com/en/search-jobs": [
     "Associate Data Analyst (Project Hire/Internal Assignment)",
-    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
@@ -66,12 +67,11 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Do you have a sharp eye for detail, a love of problem-solving, and a passion for software quality? Join the Cocoa QA team to help raise the bar for the frameworks that power every Apple experience. Our team sits at a unique intersection: we are engineers who think like detectives, using deep platform knowledge, automation, and analytical rigor to triage, investigate, and resolve the bugs that matter most across Cocoa. Whether we're routing a newly filed radar to exactly the right engineer, bisecting commits to pinpoint the precise change that introduced a regression, or building tools that ...",
+    "Apple Services Engineering (ASE) powers the platforms behind the App Store, Apple Music, Apple TV+, Apple Arcade, Apple Books, and more. ASE Media Platform Quality is the organization responsible for testing the systems that support commerce across these services \u2014 including activities like purchasing, subscribing, redeeming offers, and more. We are looking for a highly technical Software Development Engineer in Test to drive the design and development of internal tools and infrastructure that empower our engineering teams.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "Join the Cocoa frameworks engineering group and help build and test framework APIs for macOS, iOS, watchOS, tvOS and visionOS. Our team is responsible for key technologies including macOS experience for SwiftUI, Appkit, Catalyst, CoreData, SwiftData, CoreText and CoreGraphics frameworks. We work on system level frameworks that focus on improving a broad range of developer and user experiences for all the Apple\u2019s platforms. We are looking for critical thinkers with a sharp eye for detail who would like to play a key role in qualifying Cocoa frameworks and helping ensure Apple software is of ...",
     "Our team is building the next generation platform for orchestrating and deploying AI agents, and their integration into the lifecycle of the development of products Apple customers love. We're a fast moving, highly skilled but small team designing and building a collection of tools and systems used by Apple's internal development teams, MLEs and data scientists to build, test and deploy their products. Our systems have to scale, stay highly available, and \"just work\". That's a tall order, and we're looking for talented and passionate engineers who love dealing with such challenges.",
-    "Software Engineer in Test, Cocoa",
-    "Software Engineer in Test, Cocoa 200662197-0836",
+    "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering",
+    "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering 200656090-3337",
     "The Test Platform team at Apple is on a mission to provide innovative infrastructure and tools that execute billions of tests for internal engineering teams across Apple. We\u2019re excited to expand the remit of our team and add new intelligent capabilities in the areas of dynamic test scheduling and orchestration.",
     "We are looking for an exceptional software engineer with deep experience designing and building developer tools, build/test infrastructure, or production platform services and applying intelligence in areas like test selection, test execution and resource scheduling. You'll bring ...",
     "We are seeking a Senior Software Engineer to help build intelligent internal platforms, automation frameworks, and developer tools that improve quality, and engineering productivity across Apple Ads."
