@@ -25,9 +25,7 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
-    "SW Engineer Intern, Audio SW and Test",
-    "Software Engineer in Test (AI focus)",
-    "Sr. Analyst, Ad Forecasting & Inventory Yield"
+    "SW Engineer Intern, Audio SW and Test"
   ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
@@ -35,6 +33,7 @@
   ],
   "https://careers.paramount.com/go/Showtime/8710300/": [
     "Analyst, Affiliate Operations",
+    "Payroll Analyst",
     "Senior Analyst, Marketing Analytics",
     "T&E Analyst"
   ],
@@ -55,8 +54,8 @@
   ],
   "https://careers.paramount.com/go/Paramount+/8717600/": [
     "Analyst, Affiliate Operations",
-    "Senior Analyst, Marketing Analytics",
-    "T&E Analyst"
+    "Payroll Analyst",
+    "Senior Analyst, Marketing Analytics"
   ],
   "https://apply.workable.com/multimediallc/": [],
   "https://careers.versantmedia.com/find-a-job": [],
@@ -70,11 +69,8 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Apple Services Engineering (ASE) powers the platforms behind the App Store, Apple Music, Apple TV+, Apple Arcade, Apple Books, and more. ASE Media Platform Quality is the organization responsible for testing the systems that support commerce across these services \u2014 including activities like purchasing, subscribing, redeeming offers, and more. We are looking for a highly technical Software Development Engineer in Test to drive the design and development of internal tools and infrastructure that empower our engineering teams.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Our Human Interface Devices (HID) Software team at Apple develops high-performance drivers, frameworks, and tools that support innovative sensing technologies across Apple products, including Multi-touch and other input systems! We collaborate closely with cross-functional teams, including Algorithms, Firmware, Design, and UI, to ensure an optimal user experience. Our team is offering a phenomenal opportunity to work on innovative technology while collaborating with some of the brightest minds in the industry while also providing a clear path for career advancement into leadership!",
-    "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering",
-    "Software Development Engineer - Test, ASE Media Platform Quality - Apple Services Engineering 200656090-3337",
     "The Darwin Scheduler team within Apple's OS organization is responsible for delivering a high-quality and performant kernel that powers every Apple product \u2014 from Apple Watch on your wrist, to iPhone in your pocket, to the Mac driving the creative industry. We work on foundational technology areas such as CPU scheduling, power management, and threading models that are central to everyday life for billions of people.",
     "\u201cI believe, if you zoom out into the future, and you look back, and you ask the question, \u2018What was Apple\u2019s greatest contribution to mankind?\u2019 it will be about health.\u201d \u2014Tim Cook, 2019 At Apple, we make products that empower people to improve their health. We\u2019re looking for a talented senior iOS developer to join a team of highly skilled engineers who fulfill that mission and expand the health-related capabilities of iOS, watchOS, and other Apple platforms."
   ],
@@ -144,7 +140,6 @@
   ],
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [
-    "Digital Network Exploitation Analyst",
     "Target Digital Network Analyst"
   ],
   "https://www.gdit.com/careers/search/": [],
