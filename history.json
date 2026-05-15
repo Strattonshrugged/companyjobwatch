@@ -26,7 +26,6 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
-    "SW Engineer Intern, Audio SW and Test",
     "Sr. Analyst, Ad Forecasting & Inventory Yield"
   ],
   "https://www.twitch.tv/jobs/en/": [],
@@ -43,11 +42,12 @@
     "Analyst Coverage"
   ],
   "https://www.disneycareers.com/en/search-jobs": [
-    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
+    "Senior Food & Beverage/Merchandise Business Analyst",
+    "Senior Product Solutions Analyst (Project Hire)",
     "Technical Show Quality (Product)"
   ],
   "https://jobs.lionsgate.com/": [
@@ -76,6 +76,7 @@
     "Quality & Test Automation Engineer \u2013 Xcode",
     "Quality & Test Automation Engineer \u2013 Xcode 200654816-0836",
     "The Darwin Scheduler team within Apple's OS organization is responsible for delivering a high-quality and performant kernel that powers every Apple product \u2014 from Apple Watch on your wrist, to iPhone in your pocket, to the Mac driving the creative industry. We work on foundational technology areas such as CPU scheduling, power management, and threading models that are central to everyday life for billions of people.",
+    "The SWE Developer Foundations organisation builds technologies and tools to help software engineers at Apple to do the best work of their lives. Our team supports that mission by building innovative infrastructure and tools to provide engineers with capabilities to quickly & efficiently build and test their changes, supporting both the development lifecycle of their changes, as well as the end-customer product.",
     "The Xcode team provides the tools to develop software for Apple\u2019s innovative iOS, macOS, watchOS, tvOS and VisionOS platforms. Because tools are our products, software engineers on the Xcode team have the unique and rewarding opportunity to apply personal experience to enhance and augment the tools they use everyday. The Xcode team is looking for a detail-oriented and focused Quality Engineer with deep curiosity about how complex systems fail \u2014 and the initiative to find those failures before developers do."
   ],
   "https://discord.com/careers": [
