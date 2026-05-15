@@ -25,7 +25,10 @@
   "https://careers.wbd.com/global/en/search-results": [],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "SW Engineer Intern, Audio SW and Test",
+    "Sr. Analyst, Ad Forecasting & Inventory Yield"
+  ],
   "https://www.twitch.tv/jobs/en/": [],
   "https://careers.paramount.com/go/Pluto/8710500/": [
     "Financial Analyst, FP&A - Pluto TV"
@@ -40,11 +43,11 @@
     "Analyst Coverage"
   ],
   "https://www.disneycareers.com/en/search-jobs": [
+    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
-    "Senior Research Analyst, Disney+ UK Ad Sales",
     "Technical Show Quality (Product)"
   ],
   "https://jobs.lionsgate.com/": [
@@ -73,8 +76,7 @@
     "Quality & Test Automation Engineer \u2013 Xcode",
     "Quality & Test Automation Engineer \u2013 Xcode 200654816-0836",
     "The Darwin Scheduler team within Apple's OS organization is responsible for delivering a high-quality and performant kernel that powers every Apple product \u2014 from Apple Watch on your wrist, to iPhone in your pocket, to the Mac driving the creative industry. We work on foundational technology areas such as CPU scheduling, power management, and threading models that are central to everyday life for billions of people.",
-    "The Xcode team provides the tools to develop software for Apple\u2019s innovative iOS, macOS, watchOS, tvOS and VisionOS platforms. Because tools are our products, software engineers on the Xcode team have the unique and rewarding opportunity to apply personal experience to enhance and augment the tools they use everyday. The Xcode team is looking for a detail-oriented and focused Quality Engineer with deep curiosity about how complex systems fail \u2014 and the initiative to find those failures before developers do.",
-    "\u201cI believe, if you zoom out into the future, and you look back, and you ask the question, \u2018What was Apple\u2019s greatest contribution to mankind?\u2019 it will be about health.\u201d \u2014Tim Cook, 2019 At Apple, we make products that empower people to improve their health. We\u2019re looking for a talented senior iOS developer to join a team of highly skilled engineers who fulfill that mission and expand the health-related capabilities of iOS, watchOS, and other Apple platforms."
+    "The Xcode team provides the tools to develop software for Apple\u2019s innovative iOS, macOS, watchOS, tvOS and VisionOS platforms. Because tools are our products, software engineers on the Xcode team have the unique and rewarding opportunity to apply personal experience to enhance and augment the tools they use everyday. The Xcode team is looking for a detail-oriented and focused Quality Engineer with deep curiosity about how complex systems fail \u2014 and the initiative to find those failures before developers do."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
