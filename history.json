@@ -26,6 +26,8 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
+    "Senior Software Engineer, Picture Quality",
+    "Software Engineer in Test (AI focus)",
     "Sr. Analyst, Ad Forecasting & Inventory Yield"
   ],
   "https://www.twitch.tv/jobs/en/": [],
@@ -42,11 +44,13 @@
     "Analyst Coverage"
   ],
   "https://www.disneycareers.com/en/search-jobs": [
-    "Disney_WD_English_Test",
+    "Alternance \u2013 Assistant(e) Analyste Pricing Strat\u00e9gique (F/H/NB)",
+    "DCL Compliance Analyst",
     "Get the latest job opportunities as they become available.",
     "Qatar",
     "Quality Assurance",
     "Quality Assurance Engineering",
+    "Sr. Analyst, Product Operations LATAM",
     "Technical Show Quality (Product)"
   ],
   "https://jobs.lionsgate.com/": [
@@ -73,7 +77,9 @@
     "Join a fast-moving incubation team exploring the future of software experiences across Apple platforms. In this role, you will help prototype and architect next-generation applications, frameworks, and intelligent systems that explore emerging technologies including AI-driven and multimodal experiences. You will collaborate closely with designers, prototypers, ML engineers, and software engineers to rapidly turn ambitious ideas into tangible, high-quality prototypes that help shape future product directions.",
     "Quality & Test Automation Engineer \u2013 Xcode",
     "Quality & Test Automation Engineer \u2013 Xcode 200654816-0836",
-    "The Darwin Scheduler team within Apple's OS organization is responsible for delivering a high-quality and performant kernel that powers every Apple product \u2014 from Apple Watch on your wrist, to iPhone in your pocket, to the Mac driving the creative industry. We work on foundational technology areas such as CPU scheduling, power management, and threading models that are central to everyday life for billions of people.",
+    "SDET (Full Stack), Creativity Apps",
+    "SDET (Full Stack), Creativity Apps 200663639-3350",
+    "The Creativity Applications team is looking for a Software Development Engineer in Test who has experience testing iOS/macOS applications, cloud based frameworks and APIs, validating new and innovative on-device ML and AI features in the creative space. You will have the unique and rewarding opportunity to help shape upcoming products that will delight and ...",
     "The SWE Developer Foundations organisation builds technologies and tools to help software engineers at Apple to do the best work of their lives. Our team supports that mission by building innovative infrastructure and tools to provide engineers with capabilities to quickly & efficiently build and test their changes, supporting both the development lifecycle of their changes, as well as the end-customer product.",
     "The Xcode team provides the tools to develop software for Apple\u2019s innovative iOS, macOS, watchOS, tvOS and VisionOS platforms. Because tools are our products, software engineers on the Xcode team have the unique and rewarding opportunity to apply personal experience to enhance and augment the tools they use everyday. The Xcode team is looking for a detail-oriented and focused Quality Engineer with deep curiosity about how complex systems fail \u2014 and the initiative to find those failures before developers do.",
     "was Apple\u02bcs greatest contribution to mankind?\u02bc it will be about health.\u201d \u2014Tim Cook, 2019."
@@ -146,6 +152,7 @@
   ],
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [
+    "Cyber Intelligence Analyst",
     "Language Enabled Analyst"
   ],
   "https://www.gdit.com/careers/search/": [],
@@ -162,7 +169,9 @@
   "https://careers.chime.com/jobs": [
     "Analyst, Business Control Testing"
   ],
-  "https://careers.onepeloton.com/en/all-jobs/": [],
+  "https://careers.onepeloton.com/en/all-jobs/": [
+    "Mechanical Test Engineer"
+  ],
   "https://www.crunchyroll.com/about/jobs": [],
   "https://careers.draftkings.com/": [
     "Latest jobs"
