@@ -44,6 +44,7 @@
   ],
   "https://www.disneycareers.com/en/search-jobs": [
     "Analyst, International Consumer Payments",
+    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Media Quality Assurance",
     "Qatar",
@@ -138,7 +139,9 @@
     "Mid-weight Quality Engineer Analyst"
   ],
   "https://circleci.com/careers/": [],
-  "https://careers.boozallen.com/careers/SearchJobs": [],
+  "https://careers.boozallen.com/careers/SearchJobs": [
+    "All-Source Intelligence Analyst"
+  ],
   "https://www.gdit.com/careers/search/": [],
   "https://careers.mantech.com/": [
     "TechSIGINT Analyst"
