@@ -44,7 +44,6 @@
     "Analyst Coverage"
   ],
   "https://www.disneycareers.com/en/search-jobs": [
-    "Disney_WD_English_Test",
     "Get the latest job opportunities as they become available.",
     "Media Quality Assurance",
     "Qatar",
@@ -148,7 +147,9 @@
     "Mid-weight Quality Engineer Analyst"
   ],
   "https://circleci.com/careers/": [],
-  "https://careers.boozallen.com/careers/SearchJobs": [],
+  "https://careers.boozallen.com/careers/SearchJobs": [
+    "Lesson Learned Analyst"
+  ],
   "https://www.gdit.com/careers/search/": [],
   "https://careers.mantech.com/": [],
   "https://careers.caci.com/": [],
