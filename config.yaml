@@ -13,6 +13,8 @@ sites:
     url: "https://www.lifeatspotify.com/jobs?l=united-states-of-america-home-mix"
   - name: "Peacock (NBCUniversal)"
     url: "https://www.nbcunicareers.com/business/peacock"
+    platform: smartrecruiters
+    smartrecruiters_company: "NBCUniversal3"
   - name: "Fubo TV"
     url: "https://careers.fubo.tv/fubotv-job-openings/"
   - name: "Harman International"
@@ -25,8 +27,14 @@ sites:
     url: "https://careers.onepeloton.com/en/all-jobs/"
   - name: "Cerence"
     url: "https://cerence.wd5.myworkdayjobs.com/Cerence"
+    platform: workday
+    workday_tenant: "cerence"
+    workday_site: "Cerence"
   - name: "Magnite"
     url: "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers"
+    platform: workday
+    workday_tenant: "osv_rubicon"
+    workday_site: "MagniteCareers"
 
   - name: "Max (Warner Bros. Discovery)"
     url: "https://careers.wbd.com/global/en/search-results"
@@ -44,16 +52,13 @@ sites:
     url: "https://careers.siriusxm.com/careers/jobs"
 
   - name: "Tubi (Fox Corporation)"
-    url: "https://www.foxcorporation.com/careers/"
+    url: "https://www.foxcareers.com/Search/SearchResults?page=0&jobFunction=&brand=&subBrand=&brandCategory=&country=United%20States%20of%20America&location=&locationType=Remote&experienceLevel=&keyword=&language=undefined&latitude=0&longitude=0"
 
   - name: "Roku"
     url: "https://www.weareroku.com/jobs/search"
 
   - name: "Twitch (Amazon)"
     url: "https://www.twitch.tv/jobs/en/"
-
-  - name: "Vimeo"
-    url: "https://vimeo.com/careers/openings"
 
   - name: "Pluto TV (Paramount)"
     url: "https://careers.paramount.com/go/Pluto/8710500/"
@@ -64,14 +69,8 @@ sites:
   - name: "AMC Networks"
     url: "https://www.amcnetworks.com/careers/"
 
-  - name: "Xumo (Comcast/Charter)"
-    url: "https://careers.comcast.com/jobs/search?keywords=xumo"
-
   - name: "Walt Disney Company"
     url: "https://www.disneycareers.com/en/search-jobs"
-
-  - name: "Sling TV (EchoStar/DISH)"
-    url: "https://careers.echostar.com/jobs"
 
   - name: "Lionsgate"
     url: "https://jobs.lionsgate.com/"
@@ -79,11 +78,14 @@ sites:
   - name: "Paramount Streaming"
     url: "https://careers.paramount.com/go/Paramount+/8717600/"
 
-  - name: "FreeWheel (Comcast)"
-    url: "https://careers.comcast.com/jobs/search?keywords=freewheel"
-
   - name: "iHeartMedia"
-    url: "https://iheart.com/company/careers/"
+    url: "https://iheartmedia.wd5.myworkdayjobs.com/External_iHM/jobs?remoteType=a9f610439b7610010c52cbbab10d0002&jobFamilyGroup=bf84075fd30b10a65b891cdd01a15fa3"
+    platform: workday
+    workday_tenant: "iheartmedia"
+    workday_site: "External_iHM"
+    workday_facets:
+      remoteType: ["a9f610439b7610010c52cbbab10d0002"]
+      jobFamilyGroup: ["bf84075fd30b10a65b891cdd01a15fa3"]
 
   - name: "Audible (Amazon)"
     url: "https://www.audiblecareers.com/jobs"
@@ -93,6 +95,8 @@ sites:
 
   - name: "Multi Media LLC (Chaturbate)"
     url: "https://apply.workable.com/multimediallc/"
+    platform: workable
+    workable_account: "multimediallc"
 
   - name: "Versant Media (USA Network, CNBC, SYFY, Fandango)"
     url: "https://careers.versantmedia.com/find-a-job"
@@ -112,9 +116,6 @@ sites:
   - name: "Dolby Laboratories"
     url: "https://careers.dolby.com/viewalljobs/"
 
-  - name: "Vevo"
-    url: "https://www.vevo.com/jobs"
-
   - name: "Mubi"
     url: "https://mubi.com/en/jobs"
 
@@ -127,17 +128,17 @@ sites:
   - name: "Wurl"
     url: "https://www.wurl.com/careers"
 
-  - name: "theScore / Penn Entertainment"
-    url: "https://www.thescore.com/careers"
+  - name: "Penn Entertainment"
+    url: "https://vizi.vizirecruiter.com/PENN-Entertainment-Properties-4467/index.html?pageSize=100&sortAlpha=true#?jobFamily=%5B%22Information%20Technology%20%26%20Engineering%22%5D"
+    # NOTE: ViziRecruiter renders job listings client-side and has no
+    # discoverable public JSON API (checked its JS bundle - nothing found).
+    # This will find 0 matches until we add Playwright or dig up an API.
 
-  - name: "Frndly TV"
-    url: "https://frndlytv.com/careers"
-
-  - name: "DirecTV"
-    url: "https://www.directv.com/careers/"
-
-  - name: "BritBox (BBC / ITV)"
-    url: "https://corporate.britbox.com/careers"
+  - name: "Penn Interactive"
+    url: "https://job-boards.greenhouse.io/penninteractive?departments%5B%5D=4047765004"
+    platform: greenhouse
+    greenhouse_board: "penninteractive"
+    greenhouse_department: "4047765004"
 
   - name: "Discord"
     url: "https://discord.com/careers"
@@ -159,27 +160,22 @@ sites:
 
   - name: "Duolingo"
     url: "https://careers.duolingo.com/"
-
-  - name: "Instacart"
-    url: "https://instacart.careers/careers/"
+    platform: greenhouse
+    greenhouse_board: "duolingo"
 
   - name: "DraftKings"
     url: "https://careers.draftkings.com/"
 
   - name: "Chime"
     url: "https://careers.chime.com/jobs"
+    platform: greenhouse
+    greenhouse_board: "chime"
 
   - name: "Datadog"
     url: "https://careers.datadoghq.com/all-jobs/"
 
   - name: "Zendesk"
     url: "https://jobs.zendesk.com/us/en"
-
-  - name: "Trupanion"
-    url: "https://careers.trupanion.com/jobs"
-
-  - name: "Remitly"
-    url: "https://careers.remitly.com/jobs"
 
   - name: "Keywords Studios"
     url: "https://www.keywordsstudios.com/en/careers/browse-careers/"
@@ -207,12 +203,6 @@ sites:
 
   - name: "Witbe"
     url: "https://www.witbe.net/company/careers/"
-
-  - name: "Suitest"
-    url: "https://suite.st/about/jobs/"
-
-  - name: "Discord"
-    url: "https://discord.com/careers"
 
   - name: "CircleCI"
     url: "https://circleci.com/careers/"
@@ -243,3 +233,6 @@ sites:
 
   - name: "Serco North America"
     url: "https://careers.serco-na.com/us/en/search-results"
+
+  - name: "Washington State Government (IT Jobs)"
+    url: "https://www.governmentjobs.com/careers/washington?category%5B0%5D=IT%20and%20Computers&sort=PostingDate%7CDescending"
