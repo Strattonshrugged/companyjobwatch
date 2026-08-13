@@ -52,7 +52,7 @@ def fetch_lines_workday(url, tenant, site_id, facets=None):
 
     lines = []
     offset = 0
-    limit = 50
+    limit = 20  # Workday's API rejects limit > 20 with an HTTP 400
     while True:
         response = requests.post(
             api_url,
@@ -122,6 +122,196 @@ def fetch_lines_smartrecruiters(company):
     return lines
 
 
+def fetch_lines_typesense(
+    base_url, api_key, collection, filter_by=None, title_field="name", city_field="city-2"
+):
+    # Some career sites run their job search through a hosted Typesense
+    # instance with a public search-only API key embedded in the frontend JS
+    # (visible via the browser's Network tab). That key is scoped to search,
+    # not writes, so calling it directly is the same access the page itself has.
+    api_url = f"{base_url}/multi_search"
+    search = {
+        "collection": collection,
+        "q": "*",
+        "query_by": title_field,
+        "per_page": 250,
+        "page": 1,
+    }
+    if filter_by:
+        search["filter_by"] = filter_by
+
+    lines = []
+    page = 1
+    while True:
+        search["page"] = page
+        response = requests.post(
+            api_url,
+            params={"x-typesense-api-key": api_key},
+            json={"searches": [search]},
+            timeout=30,
+        )
+        response.raise_for_status()
+        result = response.json()["results"][0]
+        hits = result.get("hits", [])
+        for hit in hits:
+            doc = hit.get("document", {})
+            lines.append(f"{doc.get(title_field, '')} - {doc.get(city_field, '')}")
+        if len(hits) < search["per_page"] or page * search["per_page"] >= result.get("found", 0):
+            break
+        page += 1
+    return lines
+
+
+def fetch_lines_algolia(
+    app_id, api_key, index_name, facet_filters=None, filters=None,
+    title_field="title", city_field="primaryLocationCity",
+):
+    # Same idea as fetch_lines_typesense: some career sites run job search
+    # through Algolia with a public search-only key visible in the frontend's
+    # network requests. facet_filters mirrors Algolia's own facetFilters
+    # array (list of "facet:value" strings, or a list-of-lists for OR groups).
+    api_url = f"https://{app_id}-dsn.algolia.net/1/indexes/*/queries"
+
+    lines = []
+    page = 0
+    while True:
+        request = {
+            "indexName": index_name,
+            "hitsPerPage": 50,
+            "page": page,
+        }
+        if facet_filters:
+            request["facetFilters"] = facet_filters
+        if filters:
+            request["filters"] = filters
+        response = requests.post(
+            api_url,
+            params={"x-algolia-api-key": api_key, "x-algolia-application-id": app_id},
+            json={"requests": [request]},
+            timeout=30,
+        )
+        response.raise_for_status()
+        result = response.json()["results"][0]
+        hits = result.get("hits", [])
+        for hit in hits:
+            lines.append(f"{hit.get(title_field, '')} - {hit.get(city_field, '')}")
+        page += 1
+        if page >= result.get("nbPages", 0):
+            break
+    return lines
+
+
+def fetch_lines_phenom(base_url, domain, query="", location=""):
+    # Some career sites run on Phenom People's "pcsx" search widget, which
+    # calls back to a first-party endpoint on the career site's own domain
+    # (no API key needed, since it's the site's own backend, not a
+    # third-party service key). Confirmed on CACI; other Phenom-based sites
+    # may use an older widget generation without this endpoint (see Serco in
+    # CLAUDE.md's known limitations - couldn't find an equivalent for it).
+    api_url = f"{base_url}/api/pcsx/search"
+
+    lines = []
+    start = 0
+    while True:
+        response = requests.get(
+            api_url,
+            params={"domain": domain, "query": query, "location": location, "start": start},
+            timeout=30,
+        )
+        response.raise_for_status()
+        data = response.json()["data"]
+        positions = data.get("positions", [])
+        for position in positions:
+            locs = position.get("locations") or [""]
+            lines.append(f"{position.get('name', '')} - {locs[0]}")
+        start += len(positions)
+        if not positions or start >= data.get("count", 0):
+            break
+    return lines
+
+
+def fetch_lines_jibe(base_url, location="", query=""):
+    # Jibe (an iCIMS-owned ATS product, distinct from classic iCIMS) exposes
+    # a first-party /api/jobs endpoint on the career site's own domain.
+    # Confirmed on Akima.
+    api_url = f"{base_url}/api/jobs"
+
+    lines = []
+    page = 1
+    fetched = 0
+    while True:
+        response = requests.get(
+            api_url,
+            params={
+                "lang": "en-us",
+                "location": location,
+                "q": query,
+                "page": page,
+                "sortBy": "relevance",
+                "descending": "false",
+                "internal": "false",
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        data = response.json()
+        jobs = data.get("jobs", [])
+        for job in jobs:
+            doc = job.get("data", {})
+            location_str = doc.get("full_location") or doc.get("short_location") or doc.get("city", "")
+            lines.append(f"{doc.get('title', '')} - {location_str}")
+        fetched += len(jobs)
+        if not jobs or fetched >= data.get("totalCount", 0):
+            break
+        page += 1
+    return lines
+
+
+def fetch_lines_playwright(url, wait_ms=4000, max_pages=1):
+    # Fallback for sites that render client-side and have no discoverable
+    # public API. Heavier than the other fetchers (spins up a real browser),
+    # so only use this when a direct API call genuinely isn't an option.
+    # Some result pages are paginated behind a "Next" link/button - if
+    # max_pages > 1, click through up to that many pages and concatenate the
+    # text. This only works when a real "Next"-labelled link exists in the
+    # page (confirmed e.g. on WBD's careers site); sites whose pagination
+    # controls live in a shadow DOM or lack any text/aria-label won't be
+    # reachable this way and will just yield their first page.
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        try:
+            page = browser.new_page(
+                user_agent=(
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+                )
+            )
+            page.goto(url, timeout=45000, wait_until="domcontentloaded")
+            try:
+                page.wait_for_load_state("networkidle", timeout=15000)
+            except Exception:
+                pass  # some sites never go idle (polling/analytics); fall through to the fixed wait below
+            page.wait_for_timeout(wait_ms)
+
+            chunks = [page.inner_text("body")]
+            for _ in range(max_pages - 1):
+                next_link = page.get_by_text("Next", exact=True).first
+                try:
+                    if not next_link.is_visible():
+                        break
+                    next_link.click()
+                except Exception:
+                    break
+                page.wait_for_timeout(wait_ms)
+                chunks.append(page.inner_text("body"))
+        finally:
+            browser.close()
+    text = "\n".join(chunks)
+    return [line.strip() for line in text.splitlines() if line.strip()]
+
+
 PLATFORM_FETCHERS = {
     "workday": lambda site: fetch_lines_workday(
         site["url"],
@@ -135,6 +325,37 @@ PLATFORM_FETCHERS = {
     "workable": lambda site: fetch_lines_workable(site["workable_account"]),
     "smartrecruiters": lambda site: fetch_lines_smartrecruiters(
         site["smartrecruiters_company"]
+    ),
+    "typesense": lambda site: fetch_lines_typesense(
+        site["typesense_base_url"],
+        site["typesense_api_key"],
+        site["typesense_collection"],
+        site.get("typesense_filter_by"),
+        site.get("typesense_title_field", "name"),
+        site.get("typesense_city_field", "city-2"),
+    ),
+    "algolia": lambda site: fetch_lines_algolia(
+        site["algolia_app_id"],
+        site["algolia_api_key"],
+        site["algolia_index"],
+        site.get("algolia_facet_filters"),
+        site.get("algolia_filters"),
+        site.get("algolia_title_field", "title"),
+        site.get("algolia_city_field", "primaryLocationCity"),
+    ),
+    "phenom": lambda site: fetch_lines_phenom(
+        site["phenom_base_url"],
+        site["phenom_domain"],
+        site.get("phenom_query", ""),
+        site.get("phenom_location", ""),
+    ),
+    "jibe": lambda site: fetch_lines_jibe(
+        site["jibe_base_url"], site.get("jibe_location", ""), site.get("jibe_query", "")
+    ),
+    "playwright": lambda site: fetch_lines_playwright(
+        site["url"],
+        site.get("playwright_wait_ms", 4000),
+        site.get("playwright_max_pages", 1),
     ),
 }
 

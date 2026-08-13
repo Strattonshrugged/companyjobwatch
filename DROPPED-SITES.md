@@ -18,3 +18,4 @@ different careers platform.
 | FreeWheel (Comcast) | Blocked bot protection (connection refused) | 2026-08-12 |
 | BritBox (BBC / ITV) | Blocked bot protection (connection refused) | 2026-08-12 |
 | Trupanion | Blocked bot protection (connection refused) | 2026-08-12 |
+| Crunchyroll | Blocked by Cloudflare Turnstile bot-verification challenge, even via Playwright | 2026-08-12 |

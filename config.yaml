@@ -2,11 +2,9 @@ keywords:
   - QA
   - Quality
   - Test
-  - Postman
-  - JIRA
-  - Regression
   - SDET
-  - Analyst
+  - UAT
+  - Evaluator
 
 sites:
   - name: "Spotify"
@@ -38,9 +36,10 @@ sites:
 
   - name: "Max (Warner Bros. Discovery)"
     url: "https://careers.wbd.com/global/en/search-results"
-
-  - name: "Crunchyroll"
-    url: "https://www.crunchyroll.com/about/jobs"
+    platform: playwright
+    # Site paginates 10 jobs/page (441 total as of 2026-08-12). Capturing the
+    # first 3 pages (30 jobs, site's default sort) rather than all 45 pages.
+    playwright_max_pages: 3
 
   - name: "Philo"
     url: "https://jobs.philo.com/jobs"
@@ -50,6 +49,9 @@ sites:
 
   - name: "Pandora (SiriusXM)"
     url: "https://careers.siriusxm.com/careers/jobs"
+    platform: playwright
+    # Only page 1 (10 of 66 jobs as of 2026-08-12) is reachable - its pagination
+    # control has no visible text/aria-label our generic "Next" clicker can find.
 
   - name: "Tubi (Fox Corporation)"
     url: "https://www.foxcareers.com/Search/SearchResults?page=0&jobFunction=&brand=&subBrand=&brandCategory=&country=United%20States%20of%20America&location=&locationType=Remote&experienceLevel=&keyword=&language=undefined&latitude=0&longitude=0"
@@ -130,9 +132,7 @@ sites:
 
   - name: "Penn Entertainment"
     url: "https://vizi.vizirecruiter.com/PENN-Entertainment-Properties-4467/index.html?pageSize=100&sortAlpha=true#?jobFamily=%5B%22Information%20Technology%20%26%20Engineering%22%5D"
-    # NOTE: ViziRecruiter renders job listings client-side and has no
-    # discoverable public JSON API (checked its JS bundle - nothing found).
-    # This will find 0 matches until we add Playwright or dig up an API.
+    platform: playwright
 
   - name: "Penn Interactive"
     url: "https://job-boards.greenhouse.io/penninteractive?departments%5B%5D=4047765004"
@@ -209,30 +209,84 @@ sites:
 
   - name: "Booz Allen Hamilton"
     url: "https://careers.boozallen.com/careers/SearchJobs"
+    # Location filtering not wired up: Taleo, location field is a JS
+    # autocomplete widget with a per-render dynamic field ID (not a stable
+    # URL param) that requires selecting a dropdown suggestion to register -
+    # too fragile to script reliably. Feed stays nationwide/unfiltered.
 
   - name: "Leidos"
     url: "https://careers.leidos.com/"
+    # Known-dead: blocked by Cloudflare (403) on every URL tried, including
+    # the alternate search URL. Kept for existing history, not DROPPED-SITES.md.
 
   - name: "SAIC"
-    url: "https://jobs.saic.com/"
+    url: "https://jobs.saic.com/search/jobs?location=Washington&location_state=WA&radius=50"
+    platform: playwright
+    # Filtered to WA via SAIC's own GET query params (verified: "2 Washington
+    # jobs found" - Seattle, Spokane). Needs Playwright, not plain requests:
+    # SAIC's WAF fingerprints the TLS handshake and blocks python-requests
+    # with a 403 even with a full browser User-Agent header, while curl and
+    # a real browser both pass - not a header problem, a client-fingerprint one.
 
   - name: "GDIT (General Dynamics IT)"
     url: "https://www.gdit.com/careers/search/"
+    platform: algolia
+    algolia_app_id: "9UXTN7C0A2"
+    algolia_api_key: "93d76a4907a0804b16d09213d48d0085"
+    algolia_index: "gdit"
+    algolia_facet_filters: ["category:careers", ["visibility:Production"], "filterLocation:Washington"]
+    algolia_filters: "NOT deleted:true"
+    algolia_title_field: "title"
+    algolia_city_field: "primaryLocationCity"
 
   - name: "Peraton"
-    url: "https://careers.peraton.com/jobs"
+    url: "https://www.careers.peraton.com/search-jobs"
+    platform: typesense
+    typesense_base_url: "https://0sfa93uvoi81xr4ep-1.a1.typesense.net"
+    typesense_api_key: "BG8fRMAv3dN6FCJpMgWTj3Z8nFzxv2UK"
+    typesense_collection: "jobs"
+    typesense_filter_by: "location-ref-txt:=Washington"
 
   - name: "ManTech"
     url: "https://careers.mantech.com/"
+    # Same Taleo location-widget limitation as Booz Allen above - unfiltered.
 
   - name: "CACI International"
-    url: "https://careers.caci.com/"
+    url: "https://searchcareers.caci.com/careers?query=&location=Washington"
+    platform: phenom
+    phenom_base_url: "https://searchcareers.caci.com"
+    phenom_domain: "caci.com"
+    phenom_location: "Washington"
 
   - name: "Accenture Federal Services"
-    url: "https://www.accenture.com/us-en/careers/local/federal-careers"
+    url: "https://www.accenture.com/us-en/careers/jobsearch"
+    # Old URL was a marketing landing page with zero real job listings - this
+    # is Accenture's actual job search page. Couldn't find a working
+    # location/keyword query param within reasonable effort, so unfiltered
+    # (better than the dead landing page either way).
 
   - name: "Serco North America"
     url: "https://careers.serco-na.com/us/en/search-results"
+    # Runs on an older Phenom People widget generation; unlike CACI, no
+    # location-filtering API call was observed in its network traffic even
+    # with a widened capture. Unfiltered nationwide feed.
 
   - name: "Washington State Government (IT Jobs)"
     url: "https://www.governmentjobs.com/careers/washington?category%5B0%5D=IT%20and%20Computers&sort=PostingDate%7CDescending"
+
+  - name: "Amentum"
+    url: "https://amentum.dejobs.org/jobs?q=&location=Washington"
+    platform: playwright
+    # The JBLM-specific pre-filtered URL (dejobs.org/locations/joint-base-...)
+    # currently shows 0 results even though this general WA-filtered search
+    # finds real openings (Oak Harbor, Olympia, Spokane, etc. - verified 37
+    # WA jobs as of 2026-08-12). Client-rendered, needs Playwright.
+
+  - name: "Akima"
+    url: "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA"
+    platform: jibe
+    jibe_base_url: "https://careers.akima.com"
+    jibe_location: "Joint Base Lewis McChord, WA"
+    # location param does relevance-sorted filtering, not a strict match (39
+    # of 819 total jobs returned - JBLM/Fort Lewis postings cluster at the
+    # top, later results drift to other states). Good enough signal, not exact.
