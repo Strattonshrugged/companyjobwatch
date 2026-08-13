@@ -27,8 +27,7 @@
   ],
   "https://careers.wbd.com/global/en/search-results": [
     "In this role you will work closely with the Lead Level Artist and other members of the team to create high quality environment art and/or props. You will be responsible to create and refine art ass...",
-    "In this role, you will be responsible for creating high-quality animation content for real-time gameplay and cinematics for our games, thereby helping to bring the project\u2019s vision to life. Your pr...",
-    "In this role, you will work closely with the Lead Animator and Director group to create high quality animation content for real time gameplay and cinematics for our games. With an end focus on crea..."
+    "In this role, you will be responsible for creating high-quality animation content for real-time gameplay and cinematics for our games, thereby helping to bring the project\u2019s vision to life. Your pr..."
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
@@ -72,10 +71,6 @@
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "Apple Services Engineering (ASE) is an exciting & dynamic organization with customers in 155 countries, producing innovative products in a fast-growing marketplace for music, video, podcasts, books - and, of course, apps. This is a hands-on position where you will be involved in requirements analysis, functional and technical design discussions, testing, proof-of-concept, working with partners, and more. This is not a task-based job; you will be responsible for successful outcomes and delivery. Strong fundamentals are a requirement but you have to have more. You take responsibility; you fee...",
-    "At Apple, we build products that enrich people\u2019s lives. The Tools and Frameworks group empowers developers inside and outside of Apple to build great products. Our team builds the underlying technologies that power UI Automation APIs, agentic computer use, and future testing technologies. We believe great tools are essential to shipping great products. As a member of this team, you will help shape tools used by millions of developers to do their best work.",
-    "Embark on a new route in your career! Offering a host of innovative features and rich data, Apple Maps powers experiences across Apple's product line. Join the MapKit Quality Engineering team to help deliver the revolutionary Apple Maps experience \u2014 reliably and at scale \u2014 to apps and websites reaching millions of users every day. This role oversees the scaling of automation testing across MapKit SDK on iOS, MacOS, WatchOS, Android and JS platforms, including a growing focus on Android automation, SDK/API validation, and CI reliability.",
-    "Engineering Manager, Quality Engineering \u2014 MapKit",
-    "Engineering Manager, Quality Engineering \u2014 MapKit 200676672-0836",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Software Development Engineer in Test, Creativity Apps",
     "Software Development Engineer in Test, Creativity Apps 200677395-3543",
@@ -143,7 +138,9 @@
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [],
   "https://www.gdit.com/careers/search/": [],
-  "https://careers.mantech.com/": [],
+  "https://careers.mantech.com/": [
+    "Software Assurance Evaluation Engineer"
+  ],
   "https://careers.caci.com/": [],
   "https://www.accenture.com/us-en/careers/local/federal-careers": [
     "Industry Analyst Recognition",
