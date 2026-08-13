@@ -4,7 +4,22 @@
     "Latest"
   ],
   "https://www.nbcunicareers.com/business/peacock": [
-    "By joining our Talent Community, Recruiters will be able to view your career interests and keep you in mind for future roles at Peacock. Plus, you\u2019ll receive the latest career news and happenings at NBCUniversal."
+    "Analyst, Digital Inventory - New York",
+    "Analyst, People Analytics & Reporting - Orlando",
+    "Analyst, Privacy - New York",
+    "Business Analyst (Digital Ad Sales Technology) - New York",
+    "Business Analyst (Digital Ad Sales Technology) - North Hollywood",
+    "Business System Analyst (Digital Ad Sales) - New York",
+    "Business System Analyst (Digital Ad Sales) - North Hollywood",
+    "Senior Financial Analyst - New York",
+    "Senior Financial Analyst, NBC News Group - New York",
+    "Sr Business Analyst - Contract Lifecycle Management - New York",
+    "Sr Business Analyst - Contract Lifecycle Management - North Hollywood",
+    "Sr. Business Systems Analyst (SuccessFactors)  - New York",
+    "Sr. Finance Analyst, Operational Finance - New York",
+    "Sr. Financial Analyst - Miami",
+    "Treasury Analyst - Amsterdam",
+    "Treasury Analyst - New York"
   ],
   "https://careers.paramount.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_customfield1=Technology&optionsFacetsDD_customfield2=&optionsFacetsDD_customfield3=": [
     "Lead, Live Video Quality Engineer"
@@ -56,7 +71,9 @@
     "Analyst RTR General Ledger",
     "Sr Analyst, Royalty Compliance"
   ],
-  "https://apply.workable.com/multimediallc/": [],
+  "https://apply.workable.com/multimediallc/": [
+    "Manual QA Engineer - Multi Media, LLC"
+  ],
   "https://careers.versantmedia.com/find-a-job": [],
   "https://jobs.netflix.com/careers/engineering": [
     "Our Infrastructure Engineering team provides the backbone that powers Netflix's global scale and operations across all business verticals. We build and operate highly reliable, efficient, and secure infrastructure and platforms that drive business growth and innovation, balancing agility and velocity with appropriate risk management. Our Open Connect network ensures exceptional streaming quality and reliability, cost efficiency, and competitive advantage in content delivery. Our opinionated platforms for cloud, development, data, experimentation, and AI deliver intuitive experiences, streamlined workflows, and intelligent automation that continuously accelerate the productivity of Netflix's technical talent and enhance operational excellence. Our comprehensive security, privacy, and assurance capabilities safeguard our systems, data, and members across workforce, products, and technical systems (infrastructure, platforms, and applications) through preventative controls, identity and access management, threat detection and response, privacy engineering, and enterprise risk governance."
@@ -70,14 +87,10 @@
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "Apple Services Engineering (ASE) is an exciting & dynamic organization with customers in 155 countries, producing innovative products in a fast-growing marketplace for music, video, podcasts, books - and, of course, apps. This is a hands-on position where you will be involved in requirements analysis, functional and technical design discussions, testing, proof-of-concept, working with partners, and more. This is not a task-based job; you will be responsible for successful outcomes and delivery. Strong fundamentals are a requirement but you have to have more. You take responsibility; you fee...",
     "At Apple, we build products that enrich people\u2019s lives. The Tools and Frameworks group empowers developers inside and outside of Apple to build great products. Our team builds the underlying technologies that power UI Automation APIs, agentic computer use, and future testing technologies. We believe great tools are essential to shipping great products. As a member of this team, you will help shape tools used by millions of developers to do their best work.",
-    "Come join the Jet team, writing software that powers all of Apple\u2019s services - App Store, Games, Music, TV, Podcasts, & Fitness+! The role is high impact and high visibility, working across our services to build the best experience for our customers! The Jet team builds a system for teams to deploy high quality, performant native apps that source display models from a dynamic, updatable JavaScript runtime. We also build development tools, analytics frameworks and performance tooling. Team members are on the forefront of inventing the fastest and most secure technologies for building applica...",
     "Embark on a new route in your career! Offering a host of innovative features and rich data, Apple Maps powers experiences across Apple's product line. Join the MapKit Quality Engineering team to help deliver the revolutionary Apple Maps experience \u2014 reliably and at scale \u2014 to apps and websites reaching millions of users every day. This role oversees the scaling of automation testing across MapKit SDK on iOS, MacOS, WatchOS, Android and JS platforms, including a growing focus on Android automation, SDK/API validation, and CI reliability.",
     "Engineering Manager, Quality Engineering \u2014 MapKit",
     "Engineering Manager, Quality Engineering \u2014 MapKit 200676672-0836",
-    "Imagine what you could do here. At Apple, new ideas have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job, and there's no telling what you could accomplish. The iWork team is looking for a Software Developer in Test with a background with productivity apps to contribute to the development of innovative tools for creative professionals. It requires a highly proactive individual with strong creative, technical and analytic skills and passion for new technologies including in automation and machine learning.",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "Software Development Engineer Test (SDET), Productivity Apps",
-    "Software Development Engineer Test (SDET), Productivity Apps 200677024-0157",
     "Software Development Engineer in Test, Creativity Apps",
     "Software Development Engineer in Test, Creativity Apps 200677395-3543",
     "The Apps and Games Engineering team is in search of a curious and innovative teammate who is passionate about using groundbreaking web technology to deliver experiences that surpass user expectations. The team works on many impactful internal web applications and services at Apple where quality and performance cannot be sacrificed.",
@@ -110,7 +123,10 @@
     "Stay up to date on the latest happenings at Robinhood and get notified when we post new job opportunities that match your interests.",
     "We operate with extreme urgency. We push for progress without compromising quality-and when something is"
   ],
-  "https://careers.duolingo.com/": [],
+  "https://careers.duolingo.com/": [
+    "Senior People Technology Analyst - New York, NY",
+    "Senior People Technology Analyst - Pittsburgh, PA"
+  ],
   "https://careers.datadoghq.com/all-jobs/": [
     "Analyst Reports",
     "Bits Security Analyst",
@@ -164,11 +180,31 @@
   ],
   "https://careers.serco-na.com/us/en/search-results": [],
   "https://careers.chime.com/jobs": [
-    "Analyst, Business Control Testing"
+    "Analyst, Investor Relations - San Francisco, CA, USA",
+    "Lead Data Analyst, MyPay - Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+    "Senior Analyst, Financial Crimes & Identity Quality - Chicago, IL, USA",
+    "Senior Data Analyst, New Account Risk - San Francisco, CA, USA"
   ],
   "https://careers.onepeloton.com/en/all-jobs/": [],
   "https://www.crunchyroll.com/about/jobs": [],
   "https://careers.draftkings.com/": [
     "Latest jobs"
+  ],
+  "https://www.foxcareers.com/Search/SearchResults?page=0&jobFunction=&brand=&subBrand=&brandCategory=&country=United%20States%20of%20America&location=&locationType=Remote&experienceLevel=&keyword=&language=undefined&latitude=0&longitude=0": [
+    "Quality Assurance",
+    "Senior Tax Analyst, Information Reporting & Withholding, AP Shared Services (R50032708)",
+    "Tax Analyst, Information Reporting & Withholding, AP Shared Services (R50032691)",
+    "To keep it simple, only locations with current postings are listed. We\u2019re always posting new jobs, so check back often to keep on top of the latest opportunities."
+  ],
+  "https://vizi.vizirecruiter.com/PENN-Entertainment-Properties-4467/index.html?pageSize=100&sortAlpha=true#?jobFamily=%5B%22Information%20Technology%20%26%20Engineering%22%5D": [],
+  "https://job-boards.greenhouse.io/penninteractive?departments%5B%5D=4047765004": [],
+  "https://www.governmentjobs.com/careers/washington?category%5B0%5D=IT%20and%20Computers&sort=PostingDate%7CDescending": [
+    "Communicate with you and send you information as part of the Services regarding your questions, comments, requests for information, contests you entered into, upcoming events, newsletters and surveys, technical notices, security alerts, statements and invoices, support and administrative messages, significant updates to the Services or policies, as well as relevant notifications regarding your account.",
+    "Determine Services, events, newsletters, or contests that we believe will interest you and notify you.",
+    "Involve commercial activities or sales, such as contests, sweepstakes, and other sales promotions, barter, or advertising.",
+    "Relay of Content. NEOGOV relays content including but not limited to resumes, cover letters, applications, messages, questionnaire answers, responses, offer letters and other materials. You acknowledge that you are asking NEOGOV to send this content on your behalf. We process, monitor, review, store and analyze such content, for data analysis, security, quality control, enforcement of the Terms of Use, content moderation, and to improve the Services. As a result, or due to technical malfunction, in certain circumstances such content may be delayed or may not be delivered to the intended recipient. NEOGOV may notify you in such an event. By using the Services, you acknowledge that this activity is necessary for maintaining the quality and provisioning of the Services.",
+    "To scan or test the vulnerability of the Services or any network connected to the Services, nor breach the security or authentication measures on the Services or any network connected to the Services.",
+    "We reserve the right to revise our Policy to reflect changes in our online information practices or to comply with the law by publishing a new version on our website. In circumstances where we materially change this Policy, we will provide you with appropriate notice in accordance with legal requirements. By continuing to access and use the Services, you are confirming that you have read and understood the latest version of this Policy.",
+    "YOUR USE OF THE SERVICES, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES IS AT YOUR OWN RISK. THE SERVICES, ITS CONTENT, AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES ARE PROVIDED ON AN \u201cAS IS\u201d AND \u201cAS AVAILABLE\u201d BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER NEOGOV NOR ANY PERSON ASSOCIATED WITH NEOGOV MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER NEOGOV NOR ANYONE ASSOCIATED WITH NEOGOV REPRESENTS OR WARRANTS THAT THE SERVICES, ITS CONTENT, OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT THE SERVICES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICES WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS."
   ]
 }
