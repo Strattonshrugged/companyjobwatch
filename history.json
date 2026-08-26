@@ -34,7 +34,6 @@
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [
-    "Senior Software Development Engineer In Test",
     "Senior Software Engineer in Test, Python"
   ],
   "https://www.twitch.tv/jobs/en/": [
@@ -86,6 +85,7 @@
     "Machine Learning Engineer, Software QA - Creativity Apps 200679759-3350",
     "Software Development Engineer in Test, Creative Apps",
     "Software Development Engineer in Test, Creative Apps 200679734-0836",
+    "Software Development Engineer in Test, Creative Apps 200679734-3543",
     "The Creativity Apps QA team is seeking a Software QA Engineer, Machine Learning to help us ensure that our iOS and macOS creativity applications are high-quality. We\u2019re looking for an engineer to take projects from defining evaluation strategy, evaluation scripting and automation, leading all stages of testing, triaging and driving issues to resolution, and...",
     "What if your automation code was the last line of defense before a feature reached a billion devices? This role sits at the convergence of engineering rigor and product quality across Apple's iOS and macOS platforms \u2014 where the frameworks you build determine whether releases ship with confidence or not. The team operates end-to-end across the SDLC, and the bar for what 'good' looks like here resets what you thought quality engineering could be."
   ],
