@@ -33,20 +33,20 @@
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "Senior Quality Assurance Engineer, Smart TV"
+  ],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
   "https://careers.paramount.com/go/Showtime/8710300/": [
     "Lead Software Engineer (Java) in Test",
-    "Lead Software Test Engineer",
     "Sr Live Video Quality Software Engineer"
   ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
-    "Disney_WD_English_Test",
     "Equatorial Guinea",
     "Get the latest job opportunities as they become available.",
     "Guatemala",
@@ -63,7 +63,6 @@
   "https://jobs.lionsgate.com/": [],
   "https://careers.paramount.com/go/Paramount+/8717600/": [
     "Lead Software Engineer (Java) in Test",
-    "Lead Software Test Engineer",
     "Sr Live Video Quality Software Engineer"
   ],
   "https://apply.workable.com/multimediallc/": [
