@@ -34,7 +34,9 @@
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "Senior Software Engineer in Test, Python"
+  ],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
@@ -42,6 +44,7 @@
   "https://careers.paramount.com/go/Showtime/8710300/": [],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
+    "Content Valuation - Television",
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
     "Disney_WD_English_Test",
     "Equatorial Guinea",
@@ -52,6 +55,7 @@
     "Quality Assurance Analyst",
     "Quality Assurance Engineering",
     "Quality Experience Operations",
+    "Senior Analyst, Content Valuation and Analytics",
     "Students & Recent Graduates",
     "Supply Chain & Logistics - QA Methods",
     "Unlocking career dreams with Disney Cruise Line: Jarrett\u2019s journey as a Third Officer Postgraduate",
@@ -75,12 +79,16 @@
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "Are you passionate about Machine Learning and AI, and eager to apply your expertise to solve real-world problems at Apple\u2019s incredible scale? Do you want to see your work translated into direct impact on iPhone, iPad, Mac, AirPods, Watch, and more? Come join us in in developing, shipping, and maintaining AI/ML and Generative AI services \u2014 including the infrastructure, evaluation pipelines, and integration workflows that provide cutting-edge features to support Apple\u2019s hardware product development teams, helping bring amazing, groundbreaking products and innovations to life.",
+    "Automation and Design Test Engineer, Siri",
+    "Automation and Design Test Engineer, Siri 200651908-3337",
+    "Automation and Design Test Engineer, Siri 200651908-3401",
     "Imagine what you could do here! At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences. The Internet Technologies QE & Ops team is seeking an experienced and passionate Software Development Engineer in Test to help us write software to push and defend our high standard of quality and privacy. We work on some of the most vitally used features at Apple like AirDrop, ShareSheet and anything that makes Apple magic happen for all platforms: iOS, macOS, visionOS, watchOS and tvOS. We need someone who is comfortable working in an exciting environment ...",
+    "Imagine what you could do here! The people here at Apple don\u2019t just build products \u2014 we craft the kind of wonder that\u2019s revolutionized entire industries. It\u2019s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it. The Video Applications team is looking for a Software Developer in Test that has experience in macOS/iOS apps, still image file formats, video codecs, audio, and metadata. Join a group of passion...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "Sneaky Sasquatch, one of Apple Arcade's most beloved original games, is a wholesome, open-world sandbox that has captured the hearts of millions of players across every age group. With a devoted fanbase and a universe full of untapped creative potential, Apple is building a team to carry Sneaky Sasquatch into its most ambitious and expansive chapter yet.",
+    "Performance & Automation Test Engineer, Creativity Apps",
+    "Performance & Automation Test Engineer, Creativity Apps 200682482-0836",
     "Software Development Engineer in Test - Contacts, Phone, FaceTime",
-    "Software Development Engineer in Test - Contacts, Phone, FaceTime 200682395-3543",
-    "We are looking for a Sr. Game Artist whose style and sensibility are right at home in the world of Sneaky Sasquatch, and who takes pride in building great art. This is a hands-on, individual contributor role on a small, focused team with a..."
+    "Software Development Engineer in Test - Contacts, Phone, FaceTime 200682395-3543"
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -188,6 +196,7 @@
   "https://www.accenture.com/us-en/careers/jobsearch": [],
   "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [
+    "QA Reviewer, Cyber Security Analyst III - Rockville, Maryland",
     "Quality Auditor - Fort Lewis, Washington",
     "Senior Software QA Engineer and Tester - Rockville, Maryland"
   ],
