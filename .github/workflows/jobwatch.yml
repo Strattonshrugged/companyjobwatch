@@ -2,7 +2,7 @@ name: Job Watch
 
 on:
   schedule:
-    - cron: '0 */3 * * *'  # every 3 hours
+    - cron: '0 1 * * *'  # 01:00 UTC = 6:00 PM PDT daily (drifts to 5:00 PM during PST, since cron is fixed UTC and doesn't follow DST)
   workflow_dispatch:      # allows manual trigger from the Actions tab
 
 jobs:
@@ -36,7 +36,20 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python scraper.py
 
+      - name: Run AI job search (Connected Devices / Smart TV / STB)
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python job_search_ai.py
+
       - name: Commit updated history
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

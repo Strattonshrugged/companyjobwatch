@@ -73,6 +73,14 @@ sites:
 
   - name: "Walt Disney Company"
     url: "https://www.disneycareers.com/en/search-jobs"
+    # Page has a flaky A/B-test widget marker ("Disney_WD_English_Test") that
+    # appears/disappears between requests server-side, and matches the "Test"
+    # keyword as a substring - causing endless removed/re-added "new match"
+    # churn. "Get the latest job opportunities..." is the same substring bug
+    # (Test-in-latest) but is a stable boilerplate line, always present.
+    exclude_lines:
+      - "Disney_WD_English_Test"
+      - "Get the latest job opportunities as they become available."
 
   - name: "Lionsgate"
     url: "https://jobs.lionsgate.com/"

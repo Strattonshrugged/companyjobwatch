@@ -367,11 +367,13 @@ def fetch_lines_for_site(site):
     return PLATFORM_FETCHERS[platform](site)
 
 
-def matching_lines(lines, keywords):
+def matching_lines(lines, keywords, exclude_lines=None):
     lower_keywords = [kw.lower() for kw in keywords]
+    exclude_lines = set(exclude_lines or [])
     return [
         line for line in lines
-        if any(kw in line.lower() for kw in lower_keywords)
+        if line not in exclude_lines
+        and any(kw in line.lower() for kw in lower_keywords)
     ]
 
 
@@ -425,7 +427,9 @@ def main():
             print(f"  ERROR fetching {url}: {e}", file=sys.stderr)
             continue
 
-        current_matches = set(matching_lines(current_lines, keywords))
+        current_matches = set(
+            matching_lines(current_lines, keywords, site.get("exclude_lines"))
+        )
         previous_matches = set(history.get(url, []))
 
         new_lines = sorted(current_matches - previous_matches)
