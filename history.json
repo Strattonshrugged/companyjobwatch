@@ -34,7 +34,9 @@
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "Senior Software Engineer in Test, Python"
+  ],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
@@ -44,9 +46,7 @@
   "https://www.disneycareers.com/en/search-jobs": [
     "Content Valuation - Television",
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
-    "Disney_WD_English_Test",
     "Equatorial Guinea",
-    "Get the latest job opportunities as they become available.",
     "Guatemala",
     "Qatar",
     "Quality Assurance",
@@ -82,7 +82,6 @@
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Software Development Engineer in Test, Full Stack, Creativity Apps",
     "Software Development Engineer in Test, Full Stack, Creativity Apps 200682548-3350",
-    "The Apple Services Engineering team is one of the most exciting examples of Apple\u2019s long-held passion for combining art and technology. We are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And we do it on a massive scale, meeting Apple\u2019s high standard for quality and excellence, to deliver a huge variety of...",
     "The Creativity Applications team is looking for a Software Development Engineer in Test who has experience in shipping iOS/macOS applications, cloud-based frameworks, and APIs with the highest quality, validating new and innovative on-device ML and AI features in the creative space. You will have the unique and rewarding opportunity to help shape upcoming ...",
     "Would you like to contribute to Machine Learning and Generative AI technologies? Are you passionate about the integrity of the data that powers AI systems at scale? Do you believe that trustworthy data is the foundation of every great model? We truly believe it is!  We are defining what exceptional data quality looks like for machine learning across Wallet, Payments, and Commerce. As a Data Scientist, AI/ML Model Quality, you will build and maintain intelligent systems, validation frameworks, and monitoring pipelines that keep our data ecosystem healthy \u2014 ensuring that every model we build ..."
   ],
@@ -199,5 +198,20 @@
   ],
   "https://www.wurl.com/careers": [
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
+  ],
+  "ai-search:connected-devices-smart-tv-stb": [
+    "5V Video - Quality Assurance Engineer - Manual Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "AgileTV - QA Engineer - Streaming & SmartTV (Not specified) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
+    "Amazon (Fire TV) - Quality Assurance Engineer II, FireTV (Not specified) - https://www.amazon.jobs/en/jobs/2844359/quality-assurance-engineer-ii-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Devices (Not specified) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
+    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Product QA (Not specified) - https://www.amazon.jobs/en/jobs/2814794/quality-assurance-engineer-fire-tv-product-qa",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (Not specified) - https://www.amazon.jobs/en/jobs/2846421/quality-assurance-engineer-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (Not specified) - https://www.amazon.jobs/en/jobs/2862848/quality-assurance-engineer-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (Not specified) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
+    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box (IRC301927) (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "GlobalLogic Latam - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "HR Pundits Inc - QA Automation Engineer - OTT/Smart TV Platforms (Not specified) - https://www.linkedin.com/jobs/view/qa-automation-engineer-ott-smart-tv-platforms-at-hr-pundits-inc-4411254019",
+    "Insight Global (Roku project) - Roku Automation QA Engineer (Remote) (New York, New York) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china"
   ]
 }
