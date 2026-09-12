@@ -54,7 +54,6 @@
     "Quality Assurance Engineering",
     "Quality Experience Operations",
     "Students & Recent Graduates",
-    "Supply Chain & Logistics - QA Methods",
     "Unlocking career dreams with Disney Cruise Line: Jarrett\u2019s journey as a Third Officer Postgraduate",
     "Vanuatu"
   ],
@@ -78,11 +77,7 @@
     "Data Scientist, AI/ML Model Quality",
     "Data Scientist, AI/ML Model Quality 200676435-0157",
     "Data Scientist, AI/ML Model Quality 200676435-2459",
-    "Data Scientist, AI/ML Model Quality 200676435-3543",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "Software Development Engineer in Test, Full Stack, Creativity Apps",
-    "Software Development Engineer in Test, Full Stack, Creativity Apps 200682548-3350",
-    "The Creativity Applications team is looking for a Software Development Engineer in Test who has experience in shipping iOS/macOS applications, cloud-based frameworks, and APIs with the highest quality, validating new and innovative on-device ML and AI features in the creative space. You will have the unique and rewarding opportunity to help shape upcoming ...",
     "Would you like to contribute to Machine Learning and Generative AI technologies? Are you passionate about the integrity of the data that powers AI systems at scale? Do you believe that trustworthy data is the foundation of every great model? We truly believe it is!  We are defining what exceptional data quality looks like for machine learning across Wallet, Payments, and Commerce. As a Data Scientist, AI/ML Model Quality, you will build and maintain intelligent systems, validation frameworks, and monitoring pipelines that keep our data ecosystem healthy \u2014 ensuring that every model we build ..."
   ],
   "https://discord.com/careers": [
@@ -187,6 +182,7 @@
   "https://www.careers.peraton.com/search-jobs": [],
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
+    "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
     "Software Test Engineer - Remote (Any State)"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
@@ -200,17 +196,10 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual Connected TV (Remote / Europe) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "AgileTV - QA Engineer - Streaming & SmartTV (Spain) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
-    "Comcast - Quality Assurance Engineer (Philadelphia, Pennsylvania, United States) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (India) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (India) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
-    "GlobalLogic - Test Engineer \u2013 Smart TV/OTT Application Testing IRC168997 (Ukraine (work from office)) - https://jobitt.com/job-openings/test-engineer-smart-tvott-application-testing-2-6-yrs-work-from-office-irc168997",
-    "HR Pundits Inc - QA Automation Engineer - OTT/Smart TV Platforms (United States) - https://www.linkedin.com/jobs/view/qa-automation-engineer-ott-smart-tv-platforms-at-hr-pundits-inc-4411254019",
-    "Insight Global (client: Roku) - Roku Automation QA Engineer (Remote) (New York, New York, United States) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Netflix - Senior Software Engineer - UI Test Automation & Tools, TV Release Quality (Los Gatos, California, United States) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality-342b187e/",
-    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Los Gatos, California, United States) - https://www.linkedin.com/jobs/view/software-engineer-in-test-sdet-l5-tv-release-quality-at-netflix-3988046277",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
-    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china"
+    "Amazon (Fire TV) - SDET II, Fire TV (Not specified in listing) - https://www.amazon.jobs/en/jobs/2415687/sdet-ii-fire-tv",
+    "Amazon (Fire TV) - SDET II, Fire TV Performance (Not specified in listing) - https://www.amazon.jobs/en/jobs/2997677/sdet-ii-fire-tv-performance",
+    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Roku - Software Engineer, Test - SDET, Automation (Cambridge, England, United Kingdom) - https://www.weareroku.com/jobs/software-engineer-test-sdet-automation-cambridge-england-united-kingdom",
+    "Tandym Group (streaming media client) - QA Engineer - Video Streaming, Playback & Automation (Los Angeles, CA) - https://www.linkedin.com/jobs/view/qa-engineer-video-streaming-playback-automation-at-tandym-group-4430539997"
   ]
 }
