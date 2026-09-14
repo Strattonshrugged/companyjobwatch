@@ -34,9 +34,7 @@
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [
-    "Senior Software Engineer in Test, Python"
-  ],
+  "https://www.weareroku.com/jobs/search": [],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
@@ -196,19 +194,23 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual Connected TV (Remote / UK) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "Amazon (Fire TV Devices) - Quality Assurance Engineer, Fire TV Devices (United States) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
-    "Amazon (Fire TV) - SDET II, Fire TV (United States) - https://www.amazon.jobs/en/jobs/2415687/sdet-ii-fire-tv",
-    "Amazon (Fire TV) - SDET II, Fire TV Performance (United States) - https://www.amazon.jobs/en/jobs/2997677/sdet-ii-fire-tv-performance",
-    "Amazon (Vega TV OS) - SDET II, Vega TV (United States) - https://www.jointaro.com/jobs/amazon/sdet-ii-vega-tv/",
-    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (India) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (India) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
-    "Insight Global (Roku project) - Roku Automation QA Engineer (Remote) (New York, New York) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Paramount Streaming (ViacomCBS Streaming) - Lead Software Engineer in Test (United States) - https://www.themuse.com/jobs/viacomcbsstreaming/lead-software-engineer-in-test",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.linkedin.com/jobs/view/qa-engineer-contract-at-roku-inc-2332269333",
+    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "Accedo.tv - QA Engineer (Not specified) - https://echojobs.io/job/accedo-qa-engineer-m2hhk",
+    "Accedo.tv - QAE / Senior QAE (Delhi, India) - https://in.linkedin.com/jobs/view/qae-senior-qae-at-accedo-tv-2942019602",
+    "Accedo.tv - Senior QA Engineer (Delhi, India) - https://builtin.com/job/senior-qa-engineer-delhi/4236796",
+    "AgileTV - QA Engineer - Streaming & SmartTV (Not specified) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
+    "Comcast - Engineer 3, Quality Assurance (Philadelphia, PA) - https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-3--Quality-Assurance---4184_R409922",
+    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Quality-Assurance-Engineer_R441166",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "Insight Global (Roku engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Roku - QA Engineer - RokuTV (Contract) (San Jose, CA) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
+    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china",
+    "TiVo (Xperi) - Engineer - Software QA (Not specified) - https://jobs.jobvite.com/xperi/job/oL9JzfwW",
+    "TiVo (Xperi) - Sr Engineer - Software QA (Not specified) - https://jobs.jobvite.com/xperi/job/o85Azfw6",
+    "TiVo (Xperi) - Sr Engineer - Test (Not specified) - https://jobs.jobvite.com/xperi/job/oiCKkfwI",
     "VIZIO - QA Engineer (Multiple Locations) - https://careers.vizio.com/jobs/3293",
     "VIZIO - QA Engineer I (San Francisco, CA) - https://www.theladders.com/job/qa-engineer-i-vizio-san-francisco-ca_43980237",
-    "VIZIO - Quality Assurance Engineer (United States) - https://www.linkedin.com/jobs/view/quality-assurance-engineer-at-vizio-4072942004"
+    "a1group - QA Engineer - Manual (Smart TV Solutions) (Not specified) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw"
   ]
 }
