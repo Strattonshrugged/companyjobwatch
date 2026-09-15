@@ -34,7 +34,9 @@
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [],
+  "https://www.weareroku.com/jobs/search": [
+    "Senior Software Engineer in Test, Python"
+  ],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
@@ -72,11 +74,8 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Data Scientist, AI/ML Model Quality",
-    "Data Scientist, AI/ML Model Quality 200676435-0157",
-    "Data Scientist, AI/ML Model Quality 200676435-2459",
-    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "Would you like to contribute to Machine Learning and Generative AI technologies? Are you passionate about the integrity of the data that powers AI systems at scale? Do you believe that trustworthy data is the foundation of every great model? We truly believe it is!  We are defining what exceptional data quality looks like for machine learning across Wallet, Payments, and Commerce. As a Data Scientist, AI/ML Model Quality, you will build and maintain intelligent systems, validation frameworks, and monitoring pipelines that keep our data ecosystem healthy \u2014 ensuring that every model we build ..."
+    "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. And we actively leverage the latest breaking technologies for opportunities to delight our users in their daily lives. Do you love taking on challenges that create a positive impact? Are you passionate about empowering many ground-breaking intelligent experiences to be made? The Apple AIML org is building groundbreaking technology...and we are looking for people like you!",
+    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -194,23 +193,16 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "Accedo.tv - QA Engineer (Not specified) - https://echojobs.io/job/accedo-qa-engineer-m2hhk",
-    "Accedo.tv - QAE / Senior QAE (Delhi, India) - https://in.linkedin.com/jobs/view/qae-senior-qae-at-accedo-tv-2942019602",
-    "Accedo.tv - Senior QA Engineer (Delhi, India) - https://builtin.com/job/senior-qa-engineer-delhi/4236796",
-    "AgileTV - QA Engineer - Streaming & SmartTV (Not specified) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
-    "Comcast - Engineer 3, Quality Assurance (Philadelphia, PA) - https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-3--Quality-Assurance---4184_R409922",
-    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Quality-Assurance-Engineer_R441166",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
-    "Insight Global (Roku engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, CA) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
-    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china",
-    "TiVo (Xperi) - Engineer - Software QA (Not specified) - https://jobs.jobvite.com/xperi/job/oL9JzfwW",
-    "TiVo (Xperi) - Sr Engineer - Software QA (Not specified) - https://jobs.jobvite.com/xperi/job/o85Azfw6",
-    "TiVo (Xperi) - Sr Engineer - Test (Not specified) - https://jobs.jobvite.com/xperi/job/oiCKkfwI",
-    "VIZIO - QA Engineer (Multiple Locations) - https://careers.vizio.com/jobs/3293",
+    "A1 Group - QA Engineer - Manual (Smart TV Solutions) (Remote) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw",
+    "Cognizant - QA Engineer \u2013 Device Testing (New York, NY) - https://hiringcafe.com/job/qa-engineer-device-testing-cognizant-new-york-new-york-vtifetguly924mx4",
+    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
+    "GlobalLogic (Hitachi) - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America (remote)) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "GlobalLogic (Hitachi) - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (GlobalLogic (see posting)) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Netflix - Senior Software Engineer - UI Test Automation & Tools, TV Release Quality (Los Gatos, CA) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality-342b187e/",
+    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Los Gatos, CA) - https://testdevjobs.com/job/netflix-software-engineer-in-test-sdet-l5-tv-release-quality-6820/",
+    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
     "VIZIO - QA Engineer I (San Francisco, CA) - https://www.theladders.com/job/qa-engineer-i-vizio-san-francisco-ca_43980237",
-    "a1group - QA Engineer - Manual (Smart TV Solutions) (Not specified) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw"
+    "VIZIO - QA Specialist (Dakota Dunes, SD) - https://www.talentify.io/job/qa-specialist-dakota-dunes-south-dakota-vizio-2894"
   ]
 }
