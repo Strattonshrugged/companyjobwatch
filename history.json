@@ -75,7 +75,9 @@
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. And we actively leverage the latest breaking technologies for opportunities to delight our users in their daily lives. Do you love taking on challenges that create a positive impact? Are you passionate about empowering many ground-breaking intelligent experiences to be made? The Apple AIML org is building groundbreaking technology...and we are looking for people like you!",
-    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability."
+    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+    "The Apple Watch Software team is looking for an exceptionally dedicated software engineering manager to lead a new team focused on the intelligence infrastructure behind Apple's fitness experiences. This team builds the datasets, evaluation pipelines, prompts, and tooling that turn a promising model capability into somethi...",
+    "The VideoApps QA team is responsible for ensuring the quality and reliability of Apple's video editing applications, including Final Cut Pro for iPad and related products. As a Tools and Automation Engineer, you will play a critical role in shaping the test strategy and infrastructure that keeps these creative tools polished and performant for users worldwide. This is an opportunity to blend deep QA expertise with hands-on automation engineering in a fast-moving, high-impact environment."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -148,7 +150,6 @@
     "Senior Analyst, Financial Crimes & Identity Quality - Chicago, IL, USA"
   ],
   "https://careers.onepeloton.com/en/all-jobs/": [
-    "Product Quality Engineer III",
     "Sr. Product Quality Engineer"
   ],
   "https://www.crunchyroll.com/about/jobs": [],
@@ -180,29 +181,31 @@
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
     "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
-    "Software Test Engineer - Remote (Any State)"
+    "Software Test Engineer - Remote (Any State)",
+    "Test Engineer - Chantilly, VA, US"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
   "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [
     "QA Reviewer, Cyber Security Analyst III - Rockville, Maryland",
-    "Quality Auditor - Fort Lewis, Washington",
     "Senior Software QA Engineer and Tester - Rockville, Maryland"
   ],
   "https://www.wurl.com/careers": [
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "A1 Group - QA Engineer - Manual (Smart TV Solutions) (Remote) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw",
-    "Cognizant - QA Engineer \u2013 Device Testing (New York, NY) - https://hiringcafe.com/job/qa-engineer-device-testing-cognizant-new-york-new-york-vtifetguly924mx4",
+    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified in listing) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "Amazon (Fire TV) - Quality Assurance Engineer II, FireTV (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2844359/quality-assurance-engineer-ii-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Devices (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
+    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Product QA (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2814794/quality-assurance-engineer-fire-tv-product-qa",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2862848/quality-assurance-engineer-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
+    "Comcast (Xumo) - Video QA Engineer (Irvine, CA (onsite)) - https://jobs.comcast.com/job/irvine/video-qa-engineer-onsite-irvine-ca-xumo/45483/92426068448",
+    "Comcast - Quality Assurance Engineer (Philadelphia, PA (1800 Arch St)) - https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Quality-Assurance-Engineer_R441166",
     "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
-    "GlobalLogic (Hitachi) - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America (remote)) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "GlobalLogic (Hitachi) - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (GlobalLogic (see posting)) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "Disney (ESPN) - QA Engineer I (Bristol, CT) - https://www.disneycareers.com/en/job/bristol/qa-engineer-i/391/92353157024",
     "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Netflix - Senior Software Engineer - UI Test Automation & Tools, TV Release Quality (Los Gatos, CA) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality-342b187e/",
-    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Los Gatos, CA) - https://testdevjobs.com/job/netflix-software-engineer-in-test-sdet-l5-tv-release-quality-6820/",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
-    "VIZIO - QA Engineer I (San Francisco, CA) - https://www.theladders.com/job/qa-engineer-i-vizio-san-francisco-ca_43980237",
-    "VIZIO - QA Specialist (Dakota Dunes, SD) - https://www.talentify.io/job/qa-specialist-dakota-dunes-south-dakota-vizio-2894"
+    "Netflix - Software Engineer in Test 5 - Games Platform Quality (United States (not specified in listing)) - https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Software-Engineer-in-Test-5---Games-Platform-Quality_JR40621",
+    "Roku - Software Engineer Intern, QA (United States (not specified in listing)) - https://builtin.com/job/software-engineer-intern-qa/4212965"
   ]
 }
