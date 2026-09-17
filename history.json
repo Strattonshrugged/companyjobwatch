@@ -41,10 +41,11 @@
     "Browse our internships, apprenticeships, and new graduate"
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
-  "https://careers.paramount.com/go/Showtime/8710300/": [],
+  "https://careers.paramount.com/go/Showtime/8710300/": [
+    "Senior Software Engineer (Java) in Test"
+  ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
-    "Content Valuation - Television",
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
     "Equatorial Guinea",
     "Guatemala",
@@ -58,7 +59,9 @@
     "Vanuatu"
   ],
   "https://jobs.lionsgate.com/": [],
-  "https://careers.paramount.com/go/Paramount+/8717600/": [],
+  "https://careers.paramount.com/go/Paramount+/8717600/": [
+    "Senior Software Engineer (Java) in Test"
+  ],
   "https://apply.workable.com/multimediallc/": [
     "Manual QA Engineer - Multi Media, LLC",
     "Senior Software Engineer in Test - Multi Media, LLC"
@@ -74,9 +77,12 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. And we actively leverage the latest breaking technologies for opportunities to delight our users in their daily lives. Do you love taking on challenges that create a positive impact? Are you passionate about empowering many ground-breaking intelligent experiences to be made? The Apple AIML org is building groundbreaking technology...and we are looking for people like you!",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "The Apple Watch Software team is looking for an exceptionally dedicated software engineering manager to lead a new team focused on the intelligence infrastructure behind Apple's fitness experiences. This team builds the datasets, evaluation pipelines, prompts, and tooling that turn a promising model capability into somethi...",
+    "Sr. Software Development Engineer in Test",
+    "Sr. Software Development Engineer in Test 200683947-3543",
+    "The Camera Technologies & Systems team in the Camera & Photos org delivers amazing quality photos and videos by combining state of the art computer vision, image processing, machine learning, and artificial intelligence. As an engineer on our team you'll develop and extend those ...",
+    "The Product, Design, & Marketing Budget Team is seeking a resourceful and experienced product manager to own the development and evolution of an internal budgeting tool. You'll drive the product roadmap from gathering requirements and documenting feature requests to overseeing development, QA, and delivery.",
+    "The VideoApps QA team is responsible for ensuring the quality and reliability of Apple's second-party video editing applications, including Final Cut Pro for iPad and related products. As a Software Developer in Test, you will be at the intersection of engineering and quality assurance, designing and building the automated test infrastructure that powers our team's ability to ship world-class video software. This role offers a unique opportunity to shape how modern automation and AI/ML-driven workflows are adopted across the team.",
     "The VideoApps QA team is responsible for ensuring the quality and reliability of Apple's video editing applications, including Final Cut Pro for iPad and related products. As a Tools and Automation Engineer, you will play a critical role in shaping the test strategy and infrastructure that keeps these creative tools polished and performant for users worldwide. This is an opportunity to blend deep QA expertise with hands-on automation engineering in a fast-moving, high-impact environment."
   ],
   "https://discord.com/careers": [
@@ -179,10 +185,12 @@
   "https://jobs.saic.com/search/jobs?location=Washington&location_state=WA&radius=50": [],
   "https://www.careers.peraton.com/search-jobs": [],
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
+    "Data Test Engineer - Remote (Any State)",
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
     "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
     "Software Test Engineer - Remote (Any State)",
-    "Test Engineer - Chantilly, VA, US"
+    "Test Engineer - Chantilly, VA, US",
+    "UAT Test Lead - Remote (Any State)"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
   "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
@@ -194,18 +202,20 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified in listing) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "Amazon (Fire TV) - Quality Assurance Engineer II, FireTV (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2844359/quality-assurance-engineer-ii-firetv",
-    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Devices (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
-    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Product QA (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2814794/quality-assurance-engineer-fire-tv-product-qa",
-    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2862848/quality-assurance-engineer-firetv",
-    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (United States (not specified in listing)) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
-    "Comcast (Xumo) - Video QA Engineer (Irvine, CA (onsite)) - https://jobs.comcast.com/job/irvine/video-qa-engineer-onsite-irvine-ca-xumo/45483/92426068448",
-    "Comcast - Quality Assurance Engineer (Philadelphia, PA (1800 Arch St)) - https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Quality-Assurance-Engineer_R441166",
-    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
-    "Disney (ESPN) - QA Engineer I (Bristol, CT) - https://www.disneycareers.com/en/job/bristol/qa-engineer-i/391/92353157024",
-    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Netflix - Software Engineer in Test 5 - Games Platform Quality (United States (not specified in listing)) - https://netflix.wd108.myworkdayjobs.com/en-US/Netflix/job/Software-Engineer-in-Test-5---Games-Platform-Quality_JR40621",
-    "Roku - Software Engineer Intern, QA (United States (not specified in listing)) - https://builtin.com/job/software-engineer-intern-qa/4212965"
+    "5V Video - Quality Assurance Engineer - Manual (Connected TV) (Not specified in posting listing) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "AgileTV - Jr. QA Manual Engineer (Not specified in posting listing) - https://freehire.me/jobs/jr-qa-manual-engineer-agiletv-sho7lsma",
+    "Amazon (Fire TV Devices) - Quality Assurance Engineer, Fire TV Devices (Not specified in posting listing) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
+    "Amazon (Fire TV) - Quality Assurance Engineer II, FireTV (Not specified in posting listing) - https://www.amazon.jobs/en/jobs/2844359/quality-assurance-engineer-ii-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Product QA (Not specified in posting listing) - https://www.amazon.jobs/en/jobs/2814794/quality-assurance-engineer-fire-tv-product-qa",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (Not specified in posting listing) - https://www.amazon.jobs/en/jobs/2846421/quality-assurance-engineer-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (Not specified in posting listing) - https://www.amazon.jobs/en/jobs/2862848/quality-assurance-engineer-firetv",
+    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (Not specified in posting listing) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
+    "HR Pundits Inc - QA Automation Engineer - OTT/Smart TV Platforms (United States) - https://www.linkedin.com/jobs/view/qa-automation-engineer-ott-smart-tv-platforms-at-hr-pundits-inc-4411254019",
+    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, New York (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Roku (via LinkedIn posting) - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.linkedin.com/jobs/view/qa-engineer-contract-at-roku-inc-2332269333",
+    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
+    "VIZIO - QA Engineer (Multiple Locations (US)) - https://careers.vizio.com/jobs/3293",
+    "VIZIO - QA Engineer I (San Francisco, California, United States) - https://www.theladders.com/job/qa-engineer-i-vizio-san-francisco-ca_43980237",
+    "a1group - QA Engineer - Manual (Smart TV Solutions) (Not specified in posting listing) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw"
   ]
 }
