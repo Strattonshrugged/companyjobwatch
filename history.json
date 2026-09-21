@@ -31,16 +31,12 @@
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [
-    "Senior Software Engineer in Test, Python"
-  ],
+  "https://www.weareroku.com/jobs/search": [],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
-  "https://careers.paramount.com/go/Showtime/8710300/": [
-    "Senior Software Engineer (Java) in Test"
-  ],
+  "https://careers.paramount.com/go/Showtime/8710300/": [],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
@@ -187,9 +183,21 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "Jobs via Dice (client - video streaming) - SDET (Video Streaming) (Los Angeles, CA) - https://www.linkedin.com/jobs/view/sdet-video-streaming-at-jobs-via-dice-4324546093",
-    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Not specified) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality/",
-    "Roku (via Insight Global) - Roku Automation QA Engineer (Remote) (New York, New York (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Roku Inc. - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.linkedin.com/jobs/view/qa-engineer-contract-at-roku-inc-2332269333"
+    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Remote / Europe) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "AgileTV - QA Engineer - Streaming & SmartTV (Spain) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
+    "Everyone TV (Freely / Freeview / Freesat) - Senior QA Engineer \u2014 TV Apps & Connected Devices (London, United Kingdom) - https://talents.studysmarter.co.uk/companies/everyone-tv-freely-freeview-freesat/london/senior-qa-engineer-tv-apps-connected-devices-29394622/",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, New York, United States (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Paramount - Sr Live Video Quality Software Engineer (New York, New York, United States) - https://careers.paramount.com/job/New-York-Sr-Live-Video-Quality-Software-Engineer-NY-10036/1379400900/",
+    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
+    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china",
+    "Tata Elxsi - OTT and STB Test Engineer (India) - https://www.tataelxsi.com/careers/job-openings/ott-and-stb-test-engineer",
+    "The Walt Disney Company (Disney Streaming) - Quality Assurance Analyst (Seattle, Washington, United States) - https://jobs.disneycareers.com/job/seattle/quality-assurance-analyst/391/84339435312",
+    "The Walt Disney Company (ESPN) - QA Engineer I (Bristol, Connecticut, United States) - https://www.disneycareers.com/en/job/bristol/qa-engineer-i/391/92353157024",
+    "The Walt Disney Company - Quality Engineer II (New York, New York, United States) - https://www.disneycareers.com/en/job/new-york/quality-engineer-ii/391/87903584064",
+    "The Walt Disney Company - Senior QA Engineer - iOS/Swift (Glendale, California, United States) - https://www.disneycareers.com/en/job/glendale/senior-qa-engineer-ios-swift/391/85462830384",
+    "VIZIO - QA Engineer (Multiple Locations, United States) - https://careers.vizio.com/jobs/3293",
+    "VIZIO - QA Specialist (Dakota Dunes, South Dakota, United States) - https://www.talentify.io/job/qa-specialist-dakota-dunes-south-dakota-vizio-2894",
+    "VIZIO - Senior Quality Assurance Engineer I (United States) - https://www.talent.com/view?id=0d06f3199b59"
   ]
 }
