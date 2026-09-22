@@ -36,7 +36,9 @@
     "Browse our internships, apprenticeships, and new graduate"
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
-  "https://careers.paramount.com/go/Showtime/8710300/": [],
+  "https://careers.paramount.com/go/Showtime/8710300/": [
+    "Lead Software Test Engineer"
+  ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
@@ -52,7 +54,9 @@
     "Vanuatu"
   ],
   "https://jobs.lionsgate.com/": [],
-  "https://careers.paramount.com/go/Paramount+/8717600/": [],
+  "https://careers.paramount.com/go/Paramount+/8717600/": [
+    "Lead Software Test Engineer"
+  ],
   "https://apply.workable.com/multimediallc/": [
     "Manual QA Engineer - Multi Media, LLC",
     "Senior Software Engineer in Test - Multi Media, LLC"
@@ -68,8 +72,11 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Airdrop, FaceTime, Phone, SharePlay, Messages, Mail, Safari and WebKit are some of the most used applications and frameworks across both iOS and macOS platforms, and our work here touches millions of customers. The Triage Engineering team is looking for an enthusiastic, and detail-oriented engineer to help deliver the next quality release of these products on Appl...",
-    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability."
+    "Apple\u2019s Camera Performance team is looking for an engineer who combines a passion for power and performance optimization with a desire to deliver the best image quality alongside the most fluid user experience possible.",
+    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+    "Software Image Quality Manager, Creativity Apps",
+    "Software Image Quality Manager, Creativity Apps 200677992-0836",
+    "The Creativity Apps team at Apple is seeking a Software Image Quality Manager to lead, mentor, and grow a team of Image Quality Engineers focused on photo and video editing features. This role r..."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -170,12 +177,15 @@
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
     "Data Analytics Tester - Remote (Any State)",
     "Data Test Engineer - Remote (Any State)",
+    "HCM Test Automation & Quality Engineer - Remote (Any State)",
     "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
     "Software Test Engineer - Remote (Any State)",
     "UAT Test Lead - Remote (Any State)"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
-  "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
+  "https://amentum.dejobs.org/jobs?q=&location=Washington": [
+    "Quality Engineer"
+  ],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [
     "QA Reviewer, Cyber Security Analyst III - Rockville, Maryland"
   ],
@@ -183,21 +193,20 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Remote / Europe) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "AgileTV - QA Engineer - Streaming & SmartTV (Spain) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
-    "Everyone TV (Freely / Freeview / Freesat) - Senior QA Engineer \u2014 TV Apps & Connected Devices (London, United Kingdom) - https://talents.studysmarter.co.uk/companies/everyone-tv-freely-freeview-freesat/london/senior-qa-engineer-tv-apps-connected-devices-29394622/",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, New York, United States (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Paramount - Sr Live Video Quality Software Engineer (New York, New York, United States) - https://careers.paramount.com/job/New-York-Sr-Live-Video-Quality-Software-Engineer-NY-10036/1379400900/",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
-    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china",
-    "Tata Elxsi - OTT and STB Test Engineer (India) - https://www.tataelxsi.com/careers/job-openings/ott-and-stb-test-engineer",
-    "The Walt Disney Company (Disney Streaming) - Quality Assurance Analyst (Seattle, Washington, United States) - https://jobs.disneycareers.com/job/seattle/quality-assurance-analyst/391/84339435312",
-    "The Walt Disney Company (ESPN) - QA Engineer I (Bristol, Connecticut, United States) - https://www.disneycareers.com/en/job/bristol/qa-engineer-i/391/92353157024",
-    "The Walt Disney Company - Quality Engineer II (New York, New York, United States) - https://www.disneycareers.com/en/job/new-york/quality-engineer-ii/391/87903584064",
-    "The Walt Disney Company - Senior QA Engineer - iOS/Swift (Glendale, California, United States) - https://www.disneycareers.com/en/job/glendale/senior-qa-engineer-ios-swift/391/85462830384",
-    "VIZIO - QA Engineer (Multiple Locations, United States) - https://careers.vizio.com/jobs/3293",
-    "VIZIO - QA Specialist (Dakota Dunes, South Dakota, United States) - https://www.talentify.io/job/qa-specialist-dakota-dunes-south-dakota-vizio-2894",
-    "VIZIO - Senior Quality Assurance Engineer I (United States) - https://www.talent.com/view?id=0d06f3199b59"
+    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "Amazon - Quality Assurance Engineer II, FireTV (Job ID 2844359) (Not specified) - https://www.amazon.jobs/en/jobs/2844359/quality-assurance-engineer-ii-firetv",
+    "Amazon - Quality Assurance Engineer, Fire TV Devices (Job ID 2914733) (Not specified) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
+    "Amazon - Quality Assurance Engineer, Fire TV Product QA (Job ID 2814794) (Not specified) - https://www.amazon.jobs/en/jobs/2814794/quality-assurance-engineer-fire-tv-product-qa",
+    "Amazon - Quality Assurance Engineer, FireTV (Job ID 2846421) (Not specified) - https://www.amazon.jobs/en/jobs/2846421/quality-assurance-engineer-firetv",
+    "Amazon - Quality Assurance Engineer, FireTV (Job ID 2862848) (Not specified) - https://www.amazon.jobs/en/jobs/2862848/quality-assurance-engineer-firetv",
+    "Amazon - Quality Assurance Engineer, FireTV (Job ID 2866721) (Not specified) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
+    "Comcast (Xumo) - Video QA Engineer - Onsite (Irvine, CA) - https://jobs.comcast.com/job/irvine/video-qa-engineer-onsite-irvine-ca-xumo/45483/92426068448",
+    "Comcast - Video On Demand QA Engineer 4 (Not specified) - https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/Video-On-Demand-QA-Engineer-4_R409114",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "HR Pundits Inc - QA Automation Engineer - OTT/Smart TV Platforms (Not specified) - https://www.linkedin.com/jobs/view/qa-automation-engineer-ott-smart-tv-platforms-at-hr-pundits-inc-4411254019",
+    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "VIZIO - QA Engineer (Multiple Locations) - https://careers.vizio.com/jobs/3293",
+    "VIZIO - QA Engineer I (San Francisco, CA) - https://www.theladders.com/job/qa-engineer-i-vizio-san-francisco-ca_43980237",
+    "a1group - QA Engineer - Manual (Smart TV Solutions) (Not specified) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw"
   ]
 }
