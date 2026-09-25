@@ -27,7 +27,10 @@
     "Student worker Speech AI QA Ulm - Ulm"
   ],
   "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers": [],
-  "https://careers.wbd.com/global/en/search-results": [],
+  "https://careers.wbd.com/global/en/search-results": [
+    "Join our team as a External Development Manager and play a pivotal role in delivering our next AAA title. Take ownership of a multidisciplinary external development portfolio, lead relationships with partners, and ensure high-quality content delivery. Ideal for experienced professionals in game development with strong project management and communication skills.",
+    "Join us as an English Media Transcription Specialist, supporting the creation of accurate English script and transcription deliverables for entertainment content. You will transcribe spoken dialogue and video cues, ensuring quality and consistency. Ideal for candidates with experience in entertainment media transcription and strong English language skills."
+  ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
   "https://www.weareroku.com/jobs/search": [],
@@ -37,11 +40,13 @@
   "https://careers.paramount.com/go/Pluto/8710500/": [],
   "https://careers.paramount.com/go/Showtime/8710300/": [
     "Lead Software Engineer (Java) in Test",
-    "Lead Software Test Engineer"
+    "Lead Software Test Engineer",
+    "Sr Live Video Quality Software Engineer"
   ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
+    "Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027",
     "Equatorial Guinea",
     "Guatemala",
     "Qatar",
@@ -56,7 +61,8 @@
   "https://jobs.lionsgate.com/": [],
   "https://careers.paramount.com/go/Paramount+/8717600/": [
     "Lead Software Engineer (Java) in Test",
-    "Lead Software Test Engineer"
+    "Lead Software Test Engineer",
+    "Sr Live Video Quality Software Engineer"
   ],
   "https://apply.workable.com/multimediallc/": [
     "Manual QA Engineer - Multi Media, LLC",
@@ -183,7 +189,7 @@
   "https://www.accenture.com/us-en/careers/jobsearch": [],
   "https://amentum.dejobs.org/jobs?q=&location=Washington": [
     "Deputy Quality Manager",
-    "Quality Audit and Assessments Supervisor",
+    "Quality Control Inspector II",
     "Site Quality Manager"
   ],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [],
@@ -191,15 +197,7 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "Amazon (Fire TV) - Software Development Engineer in Test (SDET) - Fire TV (Austin, TX, United States) - https://jobs-us-east.amazon.com/en/jobs/1408978/software-development-engineer-in-test-sdet-fire-tv",
-    "Amazon (Fire TV) - Software Development Engineer in Test, Fire TV 3P Devices (United States) - https://www.amazon.jobs/en/jobs/2807692/software-development-engineer-in-test-fire-tv-3p-devices",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) (IRC280971) (Latin America) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box (IRC301927) (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
-    "HR Pundits Inc - QA Automation Engineer - OTT/Smart TV Platforms (United States) - https://www.linkedin.com/jobs/view/qa-automation-engineer-ott-smart-tv-platforms-at-hr-pundits-inc-4411254019",
-    "Insight Global - Roku Automation QA Engineer (Remote) (New York, New York) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
-    "Roku - Senior Quality Assurance Engineer, Smart TV (United States) - https://freehire.me/jobs/senior-quality-assurance-engineer-smart-tv-roku-2sirpsju",
-    "a1group - QA Engineer - Manual (Smart TV Solutions) (Not specified) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw"
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America (GlobalLogic LATAM)) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "Insight Global (staffing for Roku) - Roku Automation QA Engineer (Remote) (New York, New York (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/"
   ]
 }
