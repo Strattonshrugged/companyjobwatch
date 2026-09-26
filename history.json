@@ -40,13 +40,11 @@
   "https://careers.paramount.com/go/Pluto/8710500/": [],
   "https://careers.paramount.com/go/Showtime/8710300/": [
     "Lead Software Engineer (Java) in Test",
-    "Lead Software Test Engineer",
     "Sr Live Video Quality Software Engineer"
   ],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
-    "Disney Parks International Franchise and Commercial Strategy Graduate Intern, Spring 2027",
     "Equatorial Guinea",
     "Guatemala",
     "Qatar",
@@ -60,8 +58,6 @@
   ],
   "https://jobs.lionsgate.com/": [],
   "https://careers.paramount.com/go/Paramount+/8717600/": [
-    "Lead Software Engineer (Java) in Test",
-    "Lead Software Test Engineer",
     "Sr Live Video Quality Software Engineer"
   ],
   "https://apply.workable.com/multimediallc/": [
@@ -79,8 +75,10 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Apps are changing the world, enriching people\u2019s lives, and enabling developers to innovate like never before. As a result, the App Store has grown into an exciting and vibrant ecosystem for millions of developers and more than a billion users. Exciting, right? If you would like to contribute to the world's greatest app store, read on to learn how you can ...",
-    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability."
+    "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+    "Mail and Messages is a big part on how humanity communicates \u2014 the everyday check-ins, the moments that matter, the news we can't wait to share. As the SDET Manager for Mail & Messages Automated Testing Frameworks, you will lead the engineers who make sure those experiences are fast, reliable, accessible, and private on every Apple device. You won't just test these apps \u2014 you'll engineer testability into them, inventing the frameworks and in-product tools that let us prove quality at scale. This is a ground-floor opportunity to help shape a growing SDET discipline and define its charter. If...",
+    "SDET Manager, Mail & Messages Automated Testing Frameworks",
+    "SDET Manager, Mail & Messages Automated Testing Frameworks 200685898-3543"
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -142,17 +140,20 @@
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [],
   "https://www.gdit.com/careers/search/": [],
-  "https://careers.mantech.com/": [],
+  "https://careers.mantech.com/": [
+    "Data Quality and Governance Training Analyst",
+    "Senior Data Quality and Governance Training Analyst"
+  ],
   "https://careers.caci.com/": [],
   "https://www.accenture.com/us-en/careers/local/federal-careers": [
     "Industry Analyst Recognition",
     "Research, test, prototype, and scale solutions with the latest technologies to transform the federal enterprise and deliver valuable outcomes."
   ],
   "https://careers.serco-na.com/us/en/search-results": [],
-  "https://careers.chime.com/jobs": [],
-  "https://careers.onepeloton.com/en/all-jobs/": [
-    "Sr. Product Quality Engineer"
+  "https://careers.chime.com/jobs": [
+    "Senior Associate, Compliance Assurance & Testing - Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA"
   ],
+  "https://careers.onepeloton.com/en/all-jobs/": [],
   "https://www.crunchyroll.com/about/jobs": [],
   "https://careers.draftkings.com/": [
     "Latest jobs"
@@ -197,7 +198,23 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America (GlobalLogic LATAM)) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "Insight Global (staffing for Roku) - Roku Automation QA Engineer (Remote) (New York, New York (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/"
+    "5V Video - Quality Assurance Engineer - Manual Connected TV (Not specified in listing) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "AgileTV - QA Engineer - Streaming & SmartTV (Not specified in listing) - https://emp.jobylon.com/jobs/284463-agiletv-qa-engineer-streaming-smarttv/",
+    "Amazon - Quality Assurance Engineer II, FireTV (Job ID 2844359) (Not specified in listing) - https://www.amazon.jobs/en/jobs/2844359/quality-assurance-engineer-ii-firetv",
+    "Amazon - Quality Assurance Engineer, Fire TV Devices (Job ID 2914733) (Not specified in listing) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
+    "Amazon - Quality Assurance Engineer, Fire TV Product QA (Job ID 2814794) (Not specified in listing) - https://www.amazon.jobs/en/jobs/2814794/quality-assurance-engineer-fire-tv-product-qa",
+    "Amazon - Quality Assurance Engineer, FireTV (Job ID 2846421) (Not specified in listing) - https://www.amazon.jobs/en/jobs/2846421/quality-assurance-engineer-firetv",
+    "Amazon - Quality Assurance Engineer, FireTV (Job ID 2862848) (Not specified in listing) - https://www.amazon.jobs/en/jobs/2862848/quality-assurance-engineer-firetv",
+    "Amazon - Quality Assurance Engineer, FireTV (Job ID 2866721) (Not specified in listing) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
+    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://comcast.wd5.myworkdayjobs.com/en-US/comcast_careers/job/PA---Philadelphia-1800-Arch-St/Quality-Assurance-Engineer_R441166",
+    "Comcast - Quality Assurance Engineer (Philadelphia, PA) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) IRC280971 (Latin America) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "GlobalLogic - QA Engineer \u2013 Smart TV & Set-Top Box IRC301927 (Not specified in listing) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "Insight Global (contract for Roku) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "NBCUniversal (Peacock) - QA Engineer, Peacock (Not specified in listing) - https://www.mediabistro.com/jobs/nbc-universal-inc/job/203067-qa-engineer-peacock",
+    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Not specified in listing) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality/",
+    "Paramount - Sr Live Video Quality Software Engineer (New York, NY) - https://careers.paramount.com/job/New-York-Sr-Live-Video-Quality-Software-Engineer-NY-10036/1379400900/",
+    "Remote Origin - QA Lead (Smart TV) (Remote) - https://remoteorigin.com/careers/qa-lead/",
+    "Roku - Senior Quality Assurance Engineer, Smart TV (Shenzhen, Guangdong, China) - https://www.weareroku.com/jobs/senior-quality-assurance-engineer-smart-tv-shenzhen-guangdong-china"
   ]
 }
