@@ -24,6 +24,7 @@
   "https://cerence.wd5.myworkdayjobs.com/Cerence": [
     "Quality Management Automation Intern - Chengdu",
     "Senior Quality Assurance Engineer (Test Engineer) - Tokyo",
+    "Software Quality Assurance Engineer - 2 Locations",
     "Student worker Speech AI QA Ulm - Ulm"
   ],
   "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers": [],
@@ -56,9 +57,7 @@
     "Vanuatu"
   ],
   "https://jobs.lionsgate.com/": [],
-  "https://careers.paramount.com/go/Paramount+/8717600/": [
-    "Software Engineer (Java) in Test"
-  ],
+  "https://careers.paramount.com/go/Paramount+/8717600/": [],
   "https://apply.workable.com/multimediallc/": [
     "Manual QA Engineer - Multi Media, LLC",
     "Senior Software Engineer in Test - Multi Media, LLC"
@@ -74,18 +73,8 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
-    "Help craft the next generation of capabilities leveraging Apple location and spatial awareness technologies.  Our team focuses on innovating, building, and productizing new ways for our devices to be spatially aware of each other, coupling different sensing technologies with sophisticated algorithms and AI/ML to enable new and more intuitive forms of interaction. We nurture new ideas from prototype to production, helping to establish hardware requirements and system design, conduct developmental testing, write production software, and track our results relative to physical and theoretical l...",
+    "At Apple great ideas have a way of becoming great products, services, and customer experiences. We believe design matters and we are passionate about providing high quality services to our customers around the world. Design has always been at the heart of Apple, the work that we do, and is the creative core of the Product & Design team. The Product and Design Team is seeking a skilled and enthusiastic Design Producer to lead, manage, and deliver service design initiatives. The Design Producer will play a big part in upholding these values and driving innovation and creativity though our des...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "ML Engineer - Automated Evaluation and Adversarial Design",
-    "ML Engineer - Automated Evaluation and Adversarial Design 200657970-0670",
-    "ML Engineer - Automated Evaluation and Adversarial Design 200657970-0836",
-    "ML Engineer - Automated Evaluation and Adversarial Design 200657970-3337",
-    "ML Engineer - Automated Evaluation and Adversarial Design 200657970-3543",
-    "Mail and Messages is a big part on how humanity communicates \u2014 the everyday check-ins, the moments that matter, the news we can't wait to share. As the SDET Manager for Mail & Messages Automated Testing Frameworks, you will lead the engineers who make sure those experiences are fast, reliable, accessible, and private on every Apple device. You won't just test these apps \u2014 you'll engineer testability into them, inventing the frameworks and in-product tools that let us prove quality at scale. This is a ground-floor opportunity to help shape a growing SDET discipline and define its charter. If...",
-    "SDET Manager, Mail & Messages Automated Testing Frameworks",
-    "SDET Manager, Mail & Messages Automated Testing Frameworks 200685898-3543",
-    "The Productivity and Machine Learning Evaluation team ensures the quality of AI-powered features across a suite of productivity and creative applications; including Creator Studio, used by hundreds of millions of people. This team serves as the primary evaluation function, providing critical quality signals that directly influence model development decisions and product launches.",
-    "This role focuses on building and scaling automated evaluation systems and designing adversarial and stress-testing methodologies across multiple AI features. The work requires a deep understanding of how AI system...",
     "design data quality and algorithm performance to develop the next generation of",
     "performance and quality of multi-modal sensor based algorithms that impact the lives of"
   ],
@@ -167,6 +156,7 @@
     "Latest jobs"
   ],
   "https://www.foxcareers.com/Search/SearchResults?page=0&jobFunction=&brand=&subBrand=&brandCategory=&country=United%20States%20of%20America&location=&locationType=Remote&experienceLevel=&keyword=&language=undefined&latitude=0&longitude=0": [
+    "Quality Assurance",
     "To keep it simple, only locations with current postings are listed. We\u2019re always posting new jobs, so check back often to keep on top of the latest opportunities."
   ],
   "https://vizi.vizirecruiter.com/PENN-Entertainment-Properties-4467/index.html?pageSize=100&sortAlpha=true#?jobFamily=%5B%22Information%20Technology%20%26%20Engineering%22%5D": [],
@@ -207,13 +197,11 @@
     "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
   ],
   "ai-search:connected-devices-smart-tv-stb": [
-    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
-    "Everyone TV (Freely / Freeview / Freesat) - Senior QA Engineer \u2014 TV Apps & Connected Devices (London, United Kingdom) - https://talents.studysmarter.co.uk/companies/everyone-tv-freely-freeview-freesat/london/senior-qa-engineer-tv-apps-connected-devices-29394622/",
-    "HR Pundits Inc. - QA Automation Engineer - OTT/Smart TV Platforms (United States) - https://www.linkedin.com/jobs/view/qa-automation-engineer-ott-smart-tv-platforms-at-hr-pundits-inc-4411254019",
-    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, New York (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Project People - Set Top Box Test Engineer (United Kingdom) - https://www.projectpeople.com/job/set-top-box-test-engineer",
-    "Roku (via LinkedIn) - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.linkedin.com/jobs/view/qa-engineer-contract-at-roku-inc-2332269333",
-    "Roku - QA Engineer - RokuTV (Contract) (San Jose, California, United States) - https://www.roku.com/jobs/position/3589767/qa-engineer-rokutv-contract",
-    "a1group - QA Engineer - Manual (Smart TV Solutions) (Not specified) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw"
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top Box) - IRC301927 (Not specified in posting listing) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top Box) - IRC304216 (Not specified in posting listing) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc304216/",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) - IRC280971 (Latin America (LATAM)) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Los Gatos, CA, United States) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality/",
+    "Roku (via Insight Global) - Roku Automation QA Engineer (Remote) (New York, NY, United States (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Sony Interactive Entertainment (PlayStation) - Staff Software Development Engineer in Test (United States) - https://careers.playstation.com/staff-software-development-engineer-in-test/job/6007263004"
   ]
 }
