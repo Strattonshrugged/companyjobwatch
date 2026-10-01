@@ -39,9 +39,7 @@
     "Browse our internships, apprenticeships, and new graduate"
   ],
   "https://careers.paramount.com/go/Pluto/8710500/": [],
-  "https://careers.paramount.com/go/Showtime/8710300/": [
-    "Software Engineer (Java) in Test"
-  ],
+  "https://careers.paramount.com/go/Showtime/8710300/": [],
   "https://www.amcnetworks.com/careers/": [],
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
@@ -51,6 +49,7 @@
     "Quality Assurance",
     "Quality Assurance Analyst",
     "Quality Assurance Engineering",
+    "Quality Assurance Methods",
     "Quality Experience Operations",
     "Students & Recent Graduates",
     "Unlocking career dreams with Disney Cruise Line: Jarrett\u2019s journey as a Third Officer Postgraduate",
@@ -74,9 +73,12 @@
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
     "At Apple great ideas have a way of becoming great products, services, and customer experiences. We believe design matters and we are passionate about providing high quality services to our customers around the world. Design has always been at the heart of Apple, the work that we do, and is the creative core of the Product & Design team. The Product and Design Team is seeking a skilled and enthusiastic Design Producer to lead, manage, and deliver service design initiatives. The Design Producer will play a big part in upholding these values and driving innovation and creativity though our des...",
+    "Imagine what you could do here! The people here at Apple don\u2019t just build products, we craft the kind of wonder that\u2019s revolutionized entire industries. It\u2019s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.   The Video Apps team is looking for a Software Developer in Test with a background in video/photo editing to contribute to the development of innovative tools for creative professionals, video ma...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-    "design data quality and algorithm performance to develop the next generation of",
-    "performance and quality of multi-modal sensor based algorithms that impact the lives of"
+    "Play a role in bringing Apple technology to the world. We are looking for a hardworking, dedicated, and results-oriented Generative Data Engineer. You would join a team building simulations to test and evaluate systems and also to generate synthetic data. Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or experience we deliver is the result of us making each other\u2019s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with...",
+    "Software Development Engineer in Test (SDET), Creativity Apps",
+    "Software Development Engineer in Test (SDET), Creativity Apps 200685278-3543",
+    "We're looking for a senior engineer to help drive the foundational services that power Apple's continuous integration, the systems that let Apple's software engineers build, test, and validate code changes at scale. This is a role for someone who is a go-to expert in backend systems, takes the lead on major features, spots where the platform needs to improve, ..."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -99,6 +101,8 @@
     "We operate with extreme urgency. We push for progress without compromising quality-and when something is"
   ],
   "https://careers.duolingo.com/": [
+    "Proctor Quality and Learning Manager, Scaling Operations - London, England",
+    "Proctor Quality and Learning Manager, Scaling Operations - New York, NY; Pittsburgh, PA",
     "Staff Technical Program Manager, Duolingo English Test - Pittsburgh, PA"
   ],
   "https://careers.datadoghq.com/all-jobs/": [
@@ -136,9 +140,7 @@
     "Mid-weight Quality Engineer Analyst"
   ],
   "https://circleci.com/careers/": [],
-  "https://careers.boozallen.com/careers/SearchJobs": [
-    "Quality Engineering Software Engineer, Senior"
-  ],
+  "https://careers.boozallen.com/careers/SearchJobs": [],
   "https://www.gdit.com/careers/search/": [],
   "https://careers.mantech.com/": [],
   "https://careers.caci.com/": [],
@@ -178,30 +180,28 @@
   "https://jobs.saic.com/search/jobs?location=Washington&location_state=WA&radius=50": [],
   "https://www.careers.peraton.com/search-jobs": [],
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
-    "Data Analytics Tester - Remote (Any State)",
+    "CCARS / Document Management Software Test Engineer - Remote (Any State)",
     "Data Test Engineer - Remote (Any State)",
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
-    "Quality Engineer (U.S. Army Program Office) - Remote (Any State)",
-    "SAP Software Test Engineer - 999 REMOTE",
-    "ServiceNow Tester - Remote (Any State)",
-    "Software Test Engineer - Remote (Any State)"
+    "SAP Software Test Engineer (FI/CO) - Remote (Any State)",
+    "SAP Software Test Engineer - 999 REMOTE"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
-  "https://amentum.dejobs.org/jobs?q=&location=Washington": [
-    "Deputy Quality Manager",
-    "Quality Control Inspector II",
-    "Site Quality Manager"
-  ],
+  "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [],
-  "https://www.wurl.com/careers": [
-    "*New* CTV Trends Report: Get the latest data on News viewers & brand safety"
-  ],
+  "https://www.wurl.com/careers": [],
   "ai-search:connected-devices-smart-tv-stb": [
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top Box) - IRC301927 (Not specified in posting listing) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top Box) - IRC304216 (Not specified in posting listing) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc304216/",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) - IRC280971 (Latin America (LATAM)) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "Netflix - Software Engineer in Test - SDET (L5) - TV Release Quality (Los Gatos, CA, United States) - https://www.jointaro.com/jobs/netflix/software-engineer-in-test-sdet-l5-tv-release-quality/",
-    "Roku (via Insight Global) - Roku Automation QA Engineer (Remote) (New York, NY, United States (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Sony Interactive Entertainment (PlayStation) - Staff Software Development Engineer in Test (United States) - https://careers.playstation.com/staff-software-development-engineer-in-test/job/6007263004"
+    "5V Video - Quality Assurance Engineer - Manual, Connected TV (Not specified) - https://www.weare5vvideo.com/job/quality-assurance-engineer---manual-connected-tv-1",
+    "A1 Group - QA Engineer - Manual (Smart TV Solutions) (Not specified) - https://freehire.me/jobs/qa-engineer-manual-smart-tv-solutions-a1group-do5l7hjw",
+    "Amazon - Software Development Engineer in Test (SDET) - Fire TV (Austin, TX) - https://www.glassdoor.com/job-listing/software-development-engineer-in-test-sdet-fire-tv-fire-tv-amazon-JV_IC1139761_KO0,58_KE59,65.htm?jl=1007594615306",
+    "Amazon - Software Development Engineer in Test, Fire TV 3P Devices (United States) - https://www.amazon.jobs/en/jobs/2807692/software-development-engineer-in-test-fire-tv-3p-devices",
+    "Comcast - Quality Assurance roles (multiple openings) (United States (multiple)) - https://jobs.comcast.com/category/quality-assurance-jobs/45483/8707664/1",
+    "Disney (Disney Entertainment & ESPN Technology) - Software Engineer (SDET) II (Santa Monica, CA) - https://jobs.disneycareers.com/job/santa-monica/software-engineer-sdet-ii/391/32831661424",
+    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) \u2013 IRC280971 (Latin America) - https://www.globallogic.com/latam/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
+    "GlobalLogic - QA Engineer (Smart TV / Set-Top Box) \u2013 IRC301927 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc301927/",
+    "Insight Global (Roku client project) - Roku Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Netflix - Senior Software Engineer - UI Test Automation & Tools, TV Release Quality (SDET L5) (Los Gatos, CA) - https://netflix.wd1.myworkdayjobs.com/en-US/Netflix/job/Senior-Software-Engineer--SDET--L5-_AJRT43232",
+    "Roku - Senior Quality Assurance Engineer, Smart TV (Not specified) - https://freehire.me/jobs/senior-quality-assurance-engineer-smart-tv-roku-2sirpsju",
+    "Tata Elxsi - OTT and STB Test Engineer (India) - https://www.tataelxsi.com/careers/job-openings/ott-and-stb-test-engineer"
   ]
 }
