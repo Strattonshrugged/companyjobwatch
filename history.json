@@ -28,14 +28,13 @@
   ],
   "https://osv-rubicon.wd5.myworkdayjobs.com/MagniteCareers": [],
   "https://careers.wbd.com/global/en/search-results": [
+    "Exciting opportunity for an HR Working Student to support HR operations, including digitalising personnel files and assisting with administrative tasks. Ideal for candidates pursuing or recently graduated in Human Resources or related fields, with strong communication skills and proficiency in MS Office.",
     "Join our team as a External Development Manager and play a pivotal role in delivering our next AAA title. Take ownership of a multidisciplinary external development portfolio, lead relationships with partners, and ensure high-quality content delivery. Ideal for experienced professionals in game development with strong project management and communication skills.",
     "Join us as an English Media Transcription Specialist, supporting the creation of accurate English script and transcription deliverables for entertainment content. You will transcribe spoken dialogue and video cues, ensuring quality and consistency. Ideal for candidates with experience in entertainment media transcription and strong English language skills."
   ],
   "https://jobs.philo.com/jobs": [],
   "https://careers.siriusxm.com/careers/jobs": [],
-  "https://www.weareroku.com/jobs/search": [
-    "Senior Quality Assurance Engineer, Smart TV"
-  ],
+  "https://www.weareroku.com/jobs/search": [],
   "https://www.twitch.tv/jobs/en/": [
     "Browse our internships, apprenticeships, and new graduate"
   ],
@@ -45,6 +44,7 @@
   "https://www.disneycareers.com/en/search-jobs": [
     "Disney Internships offer students and recent graduates the opportunity to work on Emmy Award-winning shows, create beloved films, and assist in projects that reach sports fans and guests worldwide.",
     "Equatorial Guinea",
+    "Graduate Associate, Data Analytics, Spring 2027",
     "Guatemala",
     "Qatar",
     "Quality Assurance",
@@ -73,6 +73,8 @@
   "https://www.vevo.com/jobs": [],
   "https://mubi.com/en/jobs": [],
   "https://jobs.apple.com/en-us/search?team=apps-and-frameworks-SFTWR-AF": [
+    "AIML - Sr Software Engineer in Test, Evaluation",
+    "AIML - Sr Software Engineer in Test, Evaluation 200654947-3337",
     "Imagine what you could do here! The people here at Apple don\u2019t just build products, we craft the kind of wonder that\u2019s revolutionized entire industries. It\u2019s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.   The Video Apps team is looking for a Software Developer in Test with a background in video/photo editing to contribute to the development of innovative tools for creative professionals, video ma...",
     "It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
     "Machine Learning Engineer, ML/GenAI Evaluation",
@@ -83,8 +85,9 @@
     "Software Development Engineer in Test (SDET), Creativity Apps",
     "Software Development Engineer in Test (SDET), Creativity Apps 200685278-3543",
     "The SpringBoard Wallpaper team is responsible for the delightful and personal backgrounds available on iOS, iPadOS and helping build beautiful macOS Screensavers. Wallpapers & Screensavers are the first thing you see when you wake your iPhone, iPad, and Mac and is fundamentally what makes those devices yours. This team is responsible for creating great new dynamic wallpaper and screensaver options every single iOS, iPadOS, and macOS release tied to the latest and greatest OS & devices Apple expects to ship",
-    "We're looking for a senior engineer to help drive the foundational services that power Apple's continuous integration, the systems that let Apple's software engineers build, test, and validate code changes at scale. This is a role for someone who is a go-to expert in backend systems, takes the lead on major features, spots where the platform needs to improve, ...",
-    "Would you like to contribute to Machine Learning and Generative AI technologies? Are you passionate about measuring what matters and ensuring AI systems work reliably for everyone? Do you believe that rigorous evaluation \u2014 including holding models accountable to fairness standards \u2014 is what separates great ML from good ML? We truly believe it is!  We are defining what exceptional looks like for machine learning across Wallet, Payments, and Commerce. As a Machine Learning Engineer specializing in Evaluation, you will establish the evaluation criteria, metrics frameworks, and quality standard..."
+    "We are looking for a quality-focused owner, excited to work from device to UI, partnering with critical Apple Partners delivering features, apps, and the operating systems themselves.",
+    "Would you like to contribute to Machine Learning and Generative AI technologies? Are you passionate about measuring what matters and ensuring AI systems work reliably for everyone? Do you believe that rigorous evaluation \u2014 including holding models accountable to fairness standards \u2014 is what separates great ML from good ML? We truly believe it is!  We are defining what exceptional looks like for machine learning across Wallet, Payments, and Commerce. As a Machine Learning Engineer specializing in Evaluation, you will establish the evaluation criteria, metrics frameworks, and quality standard...",
+    "You\u2019ll get to work at all levels, driving quality personally, writing code, building test plans, while also working across the whole organization, building a culture of quality, setting high standards, & setting best practices for an org of engineers."
   ],
   "https://discord.com/careers": [
     "Spend some quality time with the next generation with 12+ weeks parental leave, as well as fertility, adoption, and surrogacy benefits."
@@ -149,9 +152,7 @@
   "https://circleci.com/careers/": [],
   "https://careers.boozallen.com/careers/SearchJobs": [],
   "https://www.gdit.com/careers/search/": [],
-  "https://careers.mantech.com/": [
-    "Software Test Engineer"
-  ],
+  "https://careers.mantech.com/": [],
   "https://careers.caci.com/": [],
   "https://www.accenture.com/us-en/careers/local/federal-careers": [
     "Industry Analyst Recognition",
@@ -189,27 +190,18 @@
   "https://jobs.saic.com/search/jobs?location=Washington&location_state=WA&radius=50": [],
   "https://www.careers.peraton.com/search-jobs": [],
   "https://searchcareers.caci.com/careers?query=&location=Washington": [
-    "CCARS / Document Management Software Test Engineer - Remote (Any State)",
     "Data Test Engineer - Remote (Any State)",
     "HCM Test Automation & Quality Engineer - Remote (Any State)",
     "SAP Software Test Engineer (FI/CO) - Remote (Any State)",
-    "SAP Software Test Engineer - 999 REMOTE"
+    "SAP Software Test Engineer - 999 REMOTE",
+    "ServiceNow Tester - Remote (Any State)"
   ],
   "https://www.accenture.com/us-en/careers/jobsearch": [],
   "https://amentum.dejobs.org/jobs?q=&location=Washington": [],
   "https://careers.akima.com/jobs?lang=en-us&location=Joint%20Base%20Lewis%20McChord%2C%20WA": [],
   "https://www.wurl.com/careers": [],
   "ai-search:connected-devices-smart-tv-stb": [
-    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Automation & Experience (Washington County, Oregon, United States) - https://www.linkedin.com/jobs/view/quality-assurance-engineer-fire-tv-automation-experience-at-amazon-2900746777",
-    "Amazon (Fire TV) - Quality Assurance Engineer, Fire TV Devices (United States) - https://www.amazon.jobs/en/jobs/2914733/quality-assurance-engineer-fire-tv-devices",
-    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (United States) - https://www.amazon.jobs/en/jobs/2846421/quality-assurance-engineer-firetv",
-    "Amazon (Fire TV) - Quality Assurance Engineer, FireTV (United States) - https://www.amazon.jobs/en/jobs/2866721/quality-assurance-engineer-firetv",
-    "Amazon (Fire TV) - Software Engineer in Test, FireTV (United States) - https://www.jointaro.com/jobs/amazon/software-engineer-in-test-firetv/",
-    "Comcast - API QA Engineer (Chicago, IL, United States) - https://jobs.comcast.com/job/chicago/api-qa-engineer/45483/88282769296",
-    "Comcast - Quality Assurance Engineer (Philadelphia, PA, United States) - https://jobs.comcast.com/job/philadelphia/quality-assurance-engineer/45483/98432440752",
-    "GlobalLogic - QA Engineer (Smart TV & Set-Top-Box Testing) \u2013 IRC280971 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-testing-irc280971/",
-    "GlobalLogic - QA Engineer (Smart TV / Set-Top Box) \u2013 IRC304216 (Not specified) - https://www.globallogic.com/careers/qa-engineer-smart-tv-set-top-box-irc304216/",
-    "Insight Global (Roku client engagement) - Roku Automation QA Engineer (Remote) (New York, NY, United States (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
-    "Roku - QA Engineer \u2013 RokuTV (Contract) (San Jose, CA, United States) - https://www.linkedin.com/jobs/view/qa-engineer-contract-at-roku-inc-2332269333"
+    "Roku (via Insight Global) - Automation QA Engineer (Remote) (New York, NY (Remote)) - https://jobs.insightglobal.com/find_a_job/new-york/job-319151/",
+    "Roku - Senior QA Engineer (Los Gatos, CA) - https://www.theladders.com/job/senior-qa-engineer-roku-los-gatos-ca_38752066"
   ]
 }
