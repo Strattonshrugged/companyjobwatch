@@ -393,7 +393,7 @@ def send_email(to_review):
         lines.append("")
 
     body = "\n".join(lines).strip()
-    subject = f"[companyjobwatch] New matches found — {date.today()}"
+    subject = f"[jobwatch-webscrape-python] New matches found — {date.today()}"
 
     msg = MIMEText(body)
     msg["Subject"] = subject

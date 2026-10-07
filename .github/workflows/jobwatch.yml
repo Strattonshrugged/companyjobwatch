@@ -36,18 +36,6 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python scraper.py
 
-      - name: Run AI job search (Connected Devices / Smart TV / STB)
-        continue-on-error: true
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
-          EMAIL_TO: ${{ secrets.EMAIL_TO }}
-        run: python job_search_ai.py
-
       - name: Commit updated history
         if: always()
         run: |

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-`companyjobwatch` scrapes a configurable list of websites for lines matching keywords, maintains a history of found lines per site, and emails a summary whenever new matches appear. It runs on a GitHub Actions cron schedule. A second script, `job_search_ai.py`, runs alongside it and does an AI-driven web search (Claude + the web-search tool) for a job category too fuzzy for keyword matching — see its own section below.
+`jobwatch-webscrape-python` scrapes a configurable list of company career sites for lines matching keywords, maintains a history of found lines per site, and emails a summary whenever new matches appear. It runs on a GitHub Actions cron schedule. (The AI-driven category search that used to live alongside it, `job_search_ai.py`, moved out during the 2026-10 repo reorganization — this repo is keyword scraping only.)
 
 ## Commands
 
@@ -20,8 +20,6 @@ Required environment variables for local runs:
 ```
 SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, EMAIL_FROM, EMAIL_TO
 ```
-
-`job_search_ai.py` additionally requires `ANTHROPIC_API_KEY`.
 
 ## Architecture
 
@@ -63,41 +61,6 @@ calling them directly from `scraper.py` is the same access the page itself has, 
 credential leak. Only fall back to `platform: playwright` once that search comes up empty —
 it's meaningfully heavier (spins up a real Chromium instance per site) and more fragile than
 a direct API call.
-
-### AI-driven search (`job_search_ai.py`)
-
-`config.yaml`'s per-site keyword matching works well for specific job titles at known
-companies, but it can't do a fuzzy, cross-company *category* search ("Connected Devices,
-Smart TVs, and set-top boxes") — that's not a company to add to the list, and plain substring
-matching on a category name would be far noisier than the title-based matches everywhere
-else. `job_search_ai.py` handles this instead: it calls the Claude API with the
-`web_search_20260209` server-side tool (model `claude-opus-5`, `output_config.effort:
-"medium"` — deliberately below the `high` default to bound cost on a routine daily job; raise
-it if result quality seems thin) and asks it to find current QA/testing postings in that
-space, returning a JSON array of `{company, title, location, url}`.
-
-Rather than build a separate storage/email path, it **reuses `scraper.py`'s existing
-`load_history`/`save_history`/`send_email` helpers directly** (`from scraper import ...`) by
-treating its own results as just another history entry — keyed by the constant
-`SEARCH_KEY = "ai-search:connected-devices-smart-tv-stb"` instead of a real site URL. Same
-new/removed diffing, same email format, no changes needed to `scraper.py` itself.
-
-Runs as an extra step in `jobwatch.yml` right after `python scraper.py`, sharing the same
-daily schedule and the same `history.json` commit at the end (avoids a second cron trigger
-that could race on the same file). The step has `continue-on-error: true` and the commit step
-has `if: always()`, so a failure here (bad API key, JSON the model didn't format as asked,
-rate limit) never blocks the plain scraper's run or its commit.
-
-**Not yet verified against the live API** — built and unit-tested with a stub/no-key dry run
-(2026-09-10) confirming import correctness, the `pause_turn` retry loop shape, and that a
-missing API key fails gracefully (caught exception, no `history.json` write, no crash) rather
-than actually exercising a real `web_search` call end-to-end. First real verification will be
-whichever of (a) a local run with `ANTHROPIC_API_KEY` set, or (b) the first live
-`workflow_dispatch`/scheduled run once the secret is added, happens first. If the model's
-response doesn't parse as JSON (`extract_json_array` raises), the exception is caught and
-logged to stderr — check the Actions log for the raw response text if this happens
-repeatedly, and tighten the prompt if the model is wrapping the array in markdown fences or
-commentary despite being told not to.
 
 **`config.yaml`** — edit this to add/remove sites and keywords. See the platform table above for site-level fields. Any site can also set `exclude_lines` (list of exact-match strings) to permanently ignore specific noise lines that would otherwise keyword-match — use this for boilerplate/widget text that flickers in and out of a page between requests (e.g. an A/B-test marker), which otherwise churns "removed" then "new" on every run since the diff never stabilizes. See Walt Disney Company's entry for a real example (`Disney_WD_English_Test`, confirmed flaky via git history of `history.json`).  
 **`history.json`** — committed back to the repo by the Actions workflow after each run; do not edit manually. History is keyed by `url`, so changing a site's `url` or `platform` resets its history — expect a one-time burst of "new matches" for that site on the next run since previously-seen postings look new again in the changed output format.  
@@ -177,4 +140,3 @@ around the DST transitions if that matters, or leave it as an accepted seasonal 
 | `SMTP_PASSWORD` | SMTP password or app password |
 | `EMAIL_FROM` | Sender address |
 | `EMAIL_TO` | Recipient address |
-| `ANTHROPIC_API_KEY` | Claude API key, used only by `job_search_ai.py` |
